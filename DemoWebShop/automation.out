@@ -1,0 +1,939 @@
+2020-06-10 11:13:26-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-10 11:13:29-main--INFO -com.demoworkshop.qa.TestBase:Cliking gift Cards
+ 2020-06-10 11:20:01-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-10 11:20:04-main--INFO -com.demoworkshop.qa.TestBase:Cliking gift Cards
+ 2020-06-10 11:20:05-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of OrderBy
+ 2020-06-10 11:20:06-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of Display
+ 2020-06-10 11:20:06-main--INFO -com.demoworkshop.qa.TestBase:Clicking Virtual gift card
+ 2020-06-10 11:20:07-main--INFO -com.demoworkshop.qa.TestBase:Adding the Quantity
+ 2020-06-10 11:20:08-main--INFO -com.demoworkshop.qa.TestBase:Clicking Add to cart
+ 2020-06-10 11:20:08-main--INFO -com.demoworkshop.qa.TestBase:Close the error
+ 2020-06-10 11:20:09-main--INFO -com.demoworkshop.qa.TestBase:Enter the Recipient Name
+ 2020-06-10 11:20:09-main--INFO -com.demoworkshop.qa.TestBase:Enter the Recipient Email
+ 2020-06-10 11:20:09-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart
+ 2020-06-10 12:54:26-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-10 12:54:30-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-10 12:54:30-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Tricentis Demo Web Shop is matched with Actual value : Tricentis Demo Web Shop
+ 2020-06-10 12:54:30-main--INFO -com.demoworkshop.qa.TestBase:clicking Shipping Cart on Demo Web shop
+ 2020-06-10 12:54:31-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-10 12:54:31-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-10 12:54:32-main--INFO -com.demoworkshop.qa.TestBase:Select the picture of health book
+ 2020-06-10 12:54:33-main--INFO -com.demoworkshop.qa.TestBase:Enter the Quantity
+ 2020-06-10 12:54:34-main--INFO -com.demoworkshop.qa.TestBase:Click on Add to Cart Button
+ 2020-06-10 12:54:34-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-10 12:54:35-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Computers is matched with Actual value : Computers
+ 2020-06-10 12:54:35-main--INFO -com.demoworkshop.qa.TestBase:Clicking Desktop from Demo WebShop
+ 2020-06-10 12:54:41-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-10 12:54:41-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Jewelry is matched with Actual value : Jewelry
+ 2020-06-10 12:54:43-main--INFO -com.demoworkshop.qa.TestBase:Cliking gift Cards
+ 2020-06-10 12:54:43-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of OrderBy
+ 2020-06-10 20:19:06-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-10 20:19:10-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-10 20:19:10-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Tricentis Demo Web Shop is matched with Actual value : Tricentis Demo Web Shop
+ 2020-06-10 20:19:10-main--INFO -com.demoworkshop.qa.TestBase:clicking Shipping Cart on Demo Web shop
+ 2020-06-10 20:19:11-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-10 20:19:11-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-10 20:19:12-main--INFO -com.demoworkshop.qa.TestBase:Select the picture of health book
+ 2020-06-10 20:19:13-main--INFO -com.demoworkshop.qa.TestBase:Enter the Quantity
+ 2020-06-10 20:19:15-main--INFO -com.demoworkshop.qa.TestBase:Click on Add to Cart Button
+ 2020-06-10 20:19:15-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-10 20:19:16-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Computers is matched with Actual value : Computers
+ 2020-06-10 20:19:16-main--INFO -com.demoworkshop.qa.TestBase:Clicking Desktop from Demo WebShop
+ 2020-06-10 20:19:22-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-10 20:19:23-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Jewelry is matched with Actual value : Jewelry
+ 2020-06-10 20:19:25-main--INFO -com.demoworkshop.qa.TestBase:Cliking gift Cards
+ 2020-06-10 20:19:25-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of OrderBy
+ 2020-06-10 20:28:38-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-10 20:28:42-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-10 20:28:43-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Tricentis Demo Web Shop is matched with Actual value : Tricentis Demo Web Shop
+ 2020-06-10 20:28:43-main--INFO -com.demoworkshop.qa.TestBase:clicking Shipping Cart on Demo Web shop
+ 2020-06-10 20:28:43-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-10 20:28:44-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-10 20:28:45-main--INFO -com.demoworkshop.qa.TestBase:Select the picture of health book
+ 2020-06-10 20:28:45-main--INFO -com.demoworkshop.qa.TestBase:Enter the Quantity
+ 2020-06-10 20:28:47-main--INFO -com.demoworkshop.qa.TestBase:Click on Add to Cart Button
+ 2020-06-10 20:28:47-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-10 20:28:48-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Computers is matched with Actual value : Computers
+ 2020-06-10 20:28:48-main--INFO -com.demoworkshop.qa.TestBase:Clicking Desktop from Demo WebShop
+ 2020-06-10 20:28:54-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-10 20:28:55-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Jewelry is matched with Actual value : Jewelry
+ 2020-06-10 20:28:56-main--INFO -com.demoworkshop.qa.TestBase:Cliking gift Cards
+ 2020-06-10 20:28:56-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of OrderBy
+ 2020-06-10 20:34:36-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-10 20:34:40-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-10 20:34:41-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Tricentis Demo Web Shop is matched with Actual value : Tricentis Demo Web Shop
+ 2020-06-10 20:34:41-main--INFO -com.demoworkshop.qa.TestBase:clicking Shipping Cart on Demo Web shop
+ 2020-06-10 20:34:41-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-10 20:34:42-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-10 20:34:43-main--INFO -com.demoworkshop.qa.TestBase:Select the picture of health book
+ 2020-06-10 20:34:43-main--INFO -com.demoworkshop.qa.TestBase:Enter the Quantity
+ 2020-06-10 20:34:45-main--INFO -com.demoworkshop.qa.TestBase:Click on Add to Cart Button
+ 2020-06-10 20:34:45-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-10 20:34:46-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Computers is matched with Actual value : Computers
+ 2020-06-10 20:34:46-main--INFO -com.demoworkshop.qa.TestBase:Clicking Desktop from Demo WebShop
+ 2020-06-10 20:34:53-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-10 20:34:54-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Jewelry is matched with Actual value : Jewelry
+ 2020-06-10 20:40:08-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-10 20:40:11-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-10 20:40:12-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Tricentis Demo Web Shop is matched with Actual value : Tricentis Demo Web Shop
+ 2020-06-10 20:40:12-main--INFO -com.demoworkshop.qa.TestBase:clicking Shipping Cart on Demo Web shop
+ 2020-06-10 20:40:12-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-10 20:40:13-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-10 20:40:14-main--INFO -com.demoworkshop.qa.TestBase:Select the picture of health book
+ 2020-06-10 20:40:15-main--INFO -com.demoworkshop.qa.TestBase:Enter the Quantity
+ 2020-06-10 20:40:16-main--INFO -com.demoworkshop.qa.TestBase:Click on Add to Cart Button
+ 2020-06-10 20:40:17-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-10 20:40:17-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Computers is matched with Actual value : Computers
+ 2020-06-10 20:40:17-main--INFO -com.demoworkshop.qa.TestBase:Clicking Desktop from Demo WebShop
+ 2020-06-10 20:40:27-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-10 20:40:27-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Jewelry is matched with Actual value : Jewelry
+ 2020-06-10 20:42:40-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-10 20:42:43-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-10 20:42:44-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Tricentis Demo Web Shop is matched with Actual value : Tricentis Demo Web Shop
+ 2020-06-10 20:42:44-main--INFO -com.demoworkshop.qa.TestBase:clicking Shipping Cart on Demo Web shop
+ 2020-06-10 20:42:44-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-10 20:42:45-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-10 20:42:46-main--INFO -com.demoworkshop.qa.TestBase:Select the picture of health book
+ 2020-06-10 20:42:47-main--INFO -com.demoworkshop.qa.TestBase:Enter the Quantity
+ 2020-06-10 20:42:48-main--INFO -com.demoworkshop.qa.TestBase:Click on Add to Cart Button
+ 2020-06-10 20:42:48-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-10 20:42:49-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Computers is matched with Actual value : Computers
+ 2020-06-10 20:42:49-main--INFO -com.demoworkshop.qa.TestBase:Clicking Desktop from Demo WebShop
+ 2020-06-10 20:46:18-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-10 20:46:22-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-10 20:46:23-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Tricentis Demo Web Shop is matched with Actual value : Tricentis Demo Web Shop
+ 2020-06-10 20:46:23-main--INFO -com.demoworkshop.qa.TestBase:clicking Shipping Cart on Demo Web shop
+ 2020-06-10 20:46:23-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-10 20:46:24-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-10 20:46:25-main--INFO -com.demoworkshop.qa.TestBase:Select the picture of health book
+ 2020-06-10 20:46:25-main--INFO -com.demoworkshop.qa.TestBase:Enter the Quantity
+ 2020-06-10 20:46:27-main--INFO -com.demoworkshop.qa.TestBase:Click on Add to Cart Button
+ 2020-06-10 20:46:28-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-10 20:46:28-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Computers is matched with Actual value : Computers
+ 2020-06-10 20:46:28-main--INFO -com.demoworkshop.qa.TestBase:Clicking Desktop from Demo WebShop
+ 2020-06-10 20:48:51-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-10 20:48:54-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-10 20:48:55-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Tricentis Demo Web Shop is matched with Actual value : Tricentis Demo Web Shop
+ 2020-06-10 20:48:55-main--INFO -com.demoworkshop.qa.TestBase:clicking Shipping Cart on Demo Web shop
+ 2020-06-10 20:48:55-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-10 20:48:56-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-10 20:48:57-main--INFO -com.demoworkshop.qa.TestBase:Select the picture of health book
+ 2020-06-10 20:48:57-main--INFO -com.demoworkshop.qa.TestBase:Enter the Quantity
+ 2020-06-10 20:48:59-main--INFO -com.demoworkshop.qa.TestBase:Click on Add to Cart Button
+ 2020-06-10 20:48:59-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-10 20:49:00-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Computers is matched with Actual value : Computers
+ 2020-06-10 20:49:01-main--INFO -com.demoworkshop.qa.TestBase:Clicking Desktop from Demo WebShop
+ 2020-06-10 20:49:09-main--INFO -com.demoworkshop.qa.TestBase:Cliking gift Cards
+ 2020-06-10 20:49:09-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of OrderBy
+ 2020-06-10 20:49:10-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of Display
+ 2020-06-10 20:49:11-main--INFO -com.demoworkshop.qa.TestBase:Clicking Virtual gift card
+ 2020-06-10 20:49:12-main--INFO -com.demoworkshop.qa.TestBase:Adding the Quantity
+ 2020-06-10 20:49:13-main--INFO -com.demoworkshop.qa.TestBase:Clicking Add to cart
+ 2020-06-10 20:49:13-main--INFO -com.demoworkshop.qa.TestBase:Close the error
+ 2020-06-10 20:49:14-main--INFO -com.demoworkshop.qa.TestBase:Enter the Recipient Name
+ 2020-06-10 20:49:14-main--INFO -com.demoworkshop.qa.TestBase:Enter the Recipient Email
+ 2020-06-10 20:49:16-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart
+ 2020-06-11 13:32:57-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-11 13:35:31-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-11 13:38:08-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-11 13:44:56-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-11 13:45:21-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-11 13:45:25-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-11 13:45:25-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Tricentis Demo Web Shop is matched with Actual value : Tricentis Demo Web Shop
+ 2020-06-11 13:45:25-main--INFO -com.demoworkshop.qa.TestBase:clicking Shipping Cart on Demo Web shop
+ 2020-06-11 13:45:25-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-11 13:45:26-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-11 13:45:27-main--INFO -com.demoworkshop.qa.TestBase:Select the picture of health book
+ 2020-06-11 13:45:28-main--INFO -com.demoworkshop.qa.TestBase:Enter the Quantity
+ 2020-06-11 13:45:30-main--INFO -com.demoworkshop.qa.TestBase:Click on Add to Cart Button
+ 2020-06-11 13:45:30-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-11 13:45:31-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Computers is matched with Actual value : Computers
+ 2020-06-11 13:45:31-main--INFO -com.demoworkshop.qa.TestBase:Clicking Desktop from Demo WebShop
+ 2020-06-11 13:45:40-main--INFO -com.demoworkshop.qa.TestBase:Cliking gift Cards
+ 2020-06-11 13:45:40-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of OrderBy
+ 2020-06-11 13:45:41-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of Display
+ 2020-06-11 13:45:41-main--INFO -com.demoworkshop.qa.TestBase:Clicking Virtual gift card
+ 2020-06-11 13:45:42-main--INFO -com.demoworkshop.qa.TestBase:Adding the Quantity
+ 2020-06-11 13:45:43-main--INFO -com.demoworkshop.qa.TestBase:Clicking Add to cart
+ 2020-06-11 13:45:43-main--INFO -com.demoworkshop.qa.TestBase:Close the error
+ 2020-06-11 13:45:44-main--INFO -com.demoworkshop.qa.TestBase:Enter the Recipient Name
+ 2020-06-11 13:45:44-main--INFO -com.demoworkshop.qa.TestBase:Enter the Recipient Email
+ 2020-06-11 13:45:46-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart
+ 2020-06-11 13:50:05-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-11 13:50:09-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-11 13:50:09-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Tricentis Demo Web Shop is matched with Actual value : Tricentis Demo Web Shop
+ 2020-06-11 13:50:09-main--INFO -com.demoworkshop.qa.TestBase:clicking Shipping Cart on Demo Web shop
+ 2020-06-11 13:50:09-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-11 13:50:10-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-11 13:50:11-main--INFO -com.demoworkshop.qa.TestBase:Select the picture of health book
+ 2020-06-11 13:50:11-main--INFO -com.demoworkshop.qa.TestBase:Enter the Quantity
+ 2020-06-11 13:50:13-main--INFO -com.demoworkshop.qa.TestBase:Click on Add to Cart Button
+ 2020-06-11 13:50:13-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-11 13:50:14-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Computers is matched with Actual value : Computers
+ 2020-06-11 13:50:14-main--INFO -com.demoworkshop.qa.TestBase:Clicking Desktop from Demo WebShop
+ 2020-06-11 13:50:22-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-11 13:50:23-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Jewelry is matched with Actual value : Jewelry
+ 2020-06-11 13:50:25-main--INFO -com.demoworkshop.qa.TestBase:Cliking gift Cards
+ 2020-06-11 13:50:25-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of OrderBy
+ 2020-06-11 13:59:26-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-11 13:59:30-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-11 13:59:30-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Tricentis Demo Web Shop is matched with Actual value : Tricentis Demo Web Shop
+ 2020-06-11 13:59:30-main--INFO -com.demoworkshop.qa.TestBase:clicking Shipping Cart on Demo Web shop
+ 2020-06-11 13:59:30-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-11 13:59:31-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-11 13:59:32-main--INFO -com.demoworkshop.qa.TestBase:Select the picture of health book
+ 2020-06-11 13:59:32-main--INFO -com.demoworkshop.qa.TestBase:Enter the Quantity
+ 2020-06-11 13:59:34-main--INFO -com.demoworkshop.qa.TestBase:Click on Add to Cart Button
+ 2020-06-11 13:59:35-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-11 13:59:35-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Computers is matched with Actual value : Computers
+ 2020-06-11 13:59:35-main--INFO -com.demoworkshop.qa.TestBase:Clicking Desktop from Demo WebShop
+ 2020-06-11 13:59:44-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-11 13:59:45-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Jewelry is matched with Actual value : Jewelry
+ 2020-06-11 13:59:48-main--INFO -com.demoworkshop.qa.TestBase:Cliking gift Cards
+ 2020-06-11 13:59:48-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of OrderBy
+ 2020-06-11 14:12:11-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-11 14:12:15-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-11 14:12:16-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Tricentis Demo Web Shop is matched with Actual value : Tricentis Demo Web Shop
+ 2020-06-11 14:12:16-main--INFO -com.demoworkshop.qa.TestBase:clicking Shipping Cart on Demo Web shop
+ 2020-06-11 14:12:16-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-11 14:12:17-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-11 14:12:18-main--INFO -com.demoworkshop.qa.TestBase:Select the picture of health book
+ 2020-06-11 14:12:19-main--INFO -com.demoworkshop.qa.TestBase:Enter the Quantity
+ 2020-06-11 14:12:21-main--INFO -com.demoworkshop.qa.TestBase:Click on Add to Cart Button
+ 2020-06-11 14:12:21-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-11 14:12:22-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Computers is matched with Actual value : Computers
+ 2020-06-11 14:12:22-main--INFO -com.demoworkshop.qa.TestBase:Clicking Desktop from Demo WebShop
+ 2020-06-11 14:12:31-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-11 14:12:32-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Jewelry is matched with Actual value : Jewelry
+ 2020-06-11 14:12:35-main--INFO -com.demoworkshop.qa.TestBase:Cliking gift Cards
+ 2020-06-11 14:12:35-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of OrderBy
+ 2020-06-11 14:18:33-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-11 14:18:36-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-11 14:18:37-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Tricentis Demo Web Shop is matched with Actual value : Tricentis Demo Web Shop
+ 2020-06-11 14:18:37-main--INFO -com.demoworkshop.qa.TestBase:clicking Shipping Cart on Demo Web shop
+ 2020-06-11 14:18:37-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-11 14:18:38-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-11 14:18:39-main--INFO -com.demoworkshop.qa.TestBase:Select the picture of health book
+ 2020-06-11 14:18:39-main--INFO -com.demoworkshop.qa.TestBase:Enter the Quantity
+ 2020-06-11 14:18:40-main--INFO -com.demoworkshop.qa.TestBase:Click on Add to Cart Button
+ 2020-06-11 14:18:41-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-11 14:18:41-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Computers is matched with Actual value : Computers
+ 2020-06-11 14:18:41-main--INFO -com.demoworkshop.qa.TestBase:Clicking Desktop from Demo WebShop
+ 2020-06-11 14:18:49-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-11 14:18:50-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Jewelry is matched with Actual value : Jewelry
+ 2020-06-11 14:18:54-main--INFO -com.demoworkshop.qa.TestBase:Cliking gift Cards
+ 2020-06-11 14:18:54-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of OrderBy
+ 2020-06-11 14:18:55-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of Display
+ 2020-06-11 14:18:56-main--INFO -com.demoworkshop.qa.TestBase:Clicking Virtual gift card
+ 2020-06-11 14:18:57-main--INFO -com.demoworkshop.qa.TestBase:Adding the Quantity
+ 2020-06-11 14:18:58-main--INFO -com.demoworkshop.qa.TestBase:Clicking Add to cart
+ 2020-06-11 14:18:58-main--INFO -com.demoworkshop.qa.TestBase:Close the error
+ 2020-06-11 14:19:00-main--INFO -com.demoworkshop.qa.TestBase:Enter the Recipient Name
+ 2020-06-11 14:19:02-main--INFO -com.demoworkshop.qa.TestBase:Enter the Recipient Email
+ 2020-06-11 14:19:04-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart
+ 2020-06-11 14:35:42-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-11 14:35:46-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-11 14:35:47-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Tricentis Demo Web Shop is matched with Actual value : Tricentis Demo Web Shop
+ 2020-06-11 14:35:47-main--INFO -com.demoworkshop.qa.TestBase:clicking Shipping Cart on Demo Web shop
+ 2020-06-11 14:35:47-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-11 14:35:48-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-11 14:35:49-main--INFO -com.demoworkshop.qa.TestBase:Select the picture of health book
+ 2020-06-11 14:35:49-main--INFO -com.demoworkshop.qa.TestBase:Enter the Quantity
+ 2020-06-11 14:35:51-main--INFO -com.demoworkshop.qa.TestBase:Click on Add to Cart Button
+ 2020-06-11 14:35:51-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-11 14:35:52-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Computers is matched with Actual value : Computers
+ 2020-06-11 14:35:52-main--INFO -com.demoworkshop.qa.TestBase:Clicking Desktop from Demo WebShop
+ 2020-06-11 14:36:01-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-11 14:36:01-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Jewelry is matched with Actual value : Jewelry
+ 2020-06-11 14:36:06-main--INFO -com.demoworkshop.qa.TestBase:Cliking gift Cards
+ 2020-06-11 14:36:06-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of OrderBy
+ 2020-06-11 14:36:07-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of Display
+ 2020-06-11 14:36:08-main--INFO -com.demoworkshop.qa.TestBase:Clicking Virtual gift card
+ 2020-06-11 14:36:08-main--INFO -com.demoworkshop.qa.TestBase:Adding the Quantity
+ 2020-06-11 14:36:10-main--INFO -com.demoworkshop.qa.TestBase:Clicking Add to cart
+ 2020-06-11 14:36:10-main--INFO -com.demoworkshop.qa.TestBase:Close the error
+ 2020-06-11 14:36:12-main--INFO -com.demoworkshop.qa.TestBase:Enter the Recipient Name
+ 2020-06-11 14:36:14-main--INFO -com.demoworkshop.qa.TestBase:Enter the Recipient Email
+ 2020-06-11 14:36:16-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart
+ 2020-06-11 14:39:13-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-11 14:39:17-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-11 14:39:18-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Tricentis Demo Web Shop is matched with Actual value : Tricentis Demo Web Shop
+ 2020-06-11 14:39:18-main--INFO -com.demoworkshop.qa.TestBase:clicking Shipping Cart on Demo Web shop
+ 2020-06-11 14:39:18-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-11 14:39:19-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-11 14:39:19-main--INFO -com.demoworkshop.qa.TestBase:Select the picture of health book
+ 2020-06-11 14:39:20-main--INFO -com.demoworkshop.qa.TestBase:Enter the Quantity
+ 2020-06-11 14:39:21-main--INFO -com.demoworkshop.qa.TestBase:Click on Add to Cart Button
+ 2020-06-11 14:39:21-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-11 14:39:22-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Computers is matched with Actual value : Computers
+ 2020-06-11 14:39:22-main--INFO -com.demoworkshop.qa.TestBase:Clicking Desktop from Demo WebShop
+ 2020-06-11 14:39:30-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-11 14:39:31-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Jewelry is matched with Actual value : Jewelry
+ 2020-06-11 14:39:35-main--INFO -com.demoworkshop.qa.TestBase:Cliking gift Cards
+ 2020-06-11 14:39:35-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of OrderBy
+ 2020-06-11 14:39:36-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of Display
+ 2020-06-11 14:39:37-main--INFO -com.demoworkshop.qa.TestBase:Clicking Virtual gift card
+ 2020-06-11 14:39:38-main--INFO -com.demoworkshop.qa.TestBase:Adding the Quantity
+ 2020-06-11 14:39:38-main--INFO -com.demoworkshop.qa.TestBase:Clicking Add to cart
+ 2020-06-11 14:39:39-main--INFO -com.demoworkshop.qa.TestBase:Close the error
+ 2020-06-11 14:39:41-main--INFO -com.demoworkshop.qa.TestBase:Enter the Recipient Name
+ 2020-06-11 14:39:43-main--INFO -com.demoworkshop.qa.TestBase:Enter the Recipient Email
+ 2020-06-11 14:39:45-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart
+ 2020-06-11 15:20:07-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-11 15:20:11-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-11 15:20:11-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Tricentis Demo Web Shop is matched with Actual value : Tricentis Demo Web Shop
+ 2020-06-11 15:20:11-main--INFO -com.demoworkshop.qa.TestBase:clicking Shipping Cart on Demo Web shop
+ 2020-06-11 15:20:11-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-11 15:20:12-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-11 15:20:13-main--INFO -com.demoworkshop.qa.TestBase:Select the picture of health book
+ 2020-06-11 15:20:14-main--INFO -com.demoworkshop.qa.TestBase:Enter the Quantity
+ 2020-06-11 15:20:15-main--INFO -com.demoworkshop.qa.TestBase:Click on Add to Cart Button
+ 2020-06-11 15:20:16-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-11 15:20:17-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Computers is matched with Actual value : Computers
+ 2020-06-11 15:20:17-main--INFO -com.demoworkshop.qa.TestBase:Clicking Desktop from Demo WebShop
+ 2020-06-11 15:20:25-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-11 15:20:27-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Jewelry is matched with Actual value : Jewelry
+ 2020-06-11 15:20:32-main--INFO -com.demoworkshop.qa.TestBase:Cliking gift Cards
+ 2020-06-11 15:20:32-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of OrderBy
+ 2020-06-11 15:20:33-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of Display
+ 2020-06-11 15:20:34-main--INFO -com.demoworkshop.qa.TestBase:Clicking Virtual gift card
+ 2020-06-11 15:20:34-main--INFO -com.demoworkshop.qa.TestBase:Adding the Quantity
+ 2020-06-11 15:20:36-main--INFO -com.demoworkshop.qa.TestBase:Clicking Add to cart
+ 2020-06-11 15:20:36-main--INFO -com.demoworkshop.qa.TestBase:Close the error
+ 2020-06-11 15:20:39-main--INFO -com.demoworkshop.qa.TestBase:Enter the Recipient Name
+ 2020-06-11 15:20:41-main--INFO -com.demoworkshop.qa.TestBase:Enter the Recipient Email
+ 2020-06-11 15:20:43-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart
+ 2020-06-11 18:08:01-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-11 18:08:05-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-11 18:08:06-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Tricentis Demo Web Shop is matched with Actual value : Tricentis Demo Web Shop
+ 2020-06-11 18:08:06-main--INFO -com.demoworkshop.qa.TestBase:clicking Shipping Cart on Demo Web shop
+ 2020-06-11 18:08:06-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-11 18:08:07-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-11 18:08:08-main--INFO -com.demoworkshop.qa.TestBase:Select the picture of health book
+ 2020-06-11 18:08:09-main--INFO -com.demoworkshop.qa.TestBase:Enter the Quantity
+ 2020-06-11 18:08:12-main--INFO -com.demoworkshop.qa.TestBase:Click on Add to Cart Button
+ 2020-06-11 18:08:12-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-11 18:08:13-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Computers is matched with Actual value : Computers
+ 2020-06-11 18:08:13-main--INFO -com.demoworkshop.qa.TestBase:Clicking Desktop from Demo WebShop
+ 2020-06-11 18:08:23-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-11 18:08:24-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Jewelry is matched with Actual value : Jewelry
+ 2020-06-11 18:08:29-main--INFO -com.demoworkshop.qa.TestBase:Cliking gift Cards
+ 2020-06-11 18:08:30-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of OrderBy
+ 2020-06-11 18:08:31-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of Display
+ 2020-06-11 18:08:31-main--INFO -com.demoworkshop.qa.TestBase:Clicking Virtual gift card
+ 2020-06-11 18:08:32-main--INFO -com.demoworkshop.qa.TestBase:Adding the Quantity
+ 2020-06-11 18:08:34-main--INFO -com.demoworkshop.qa.TestBase:Clicking Add to cart
+ 2020-06-11 18:08:34-main--INFO -com.demoworkshop.qa.TestBase:Close the error
+ 2020-06-11 18:08:37-main--INFO -com.demoworkshop.qa.TestBase:Enter the Recipient Name
+ 2020-06-11 18:08:39-main--INFO -com.demoworkshop.qa.TestBase:Enter the Recipient Email
+ 2020-06-11 18:08:41-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart
+ 2020-06-11 18:09:15-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-11 18:09:18-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-11 18:09:18-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Tricentis Demo Web Shop is matched with Actual value : Tricentis Demo Web Shop
+ 2020-06-11 18:09:19-main--INFO -com.demoworkshop.qa.TestBase:clicking Shipping Cart on Demo Web shop
+ 2020-06-11 18:09:19-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-11 18:09:20-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-11 18:09:20-main--INFO -com.demoworkshop.qa.TestBase:Select the picture of health book
+ 2020-06-11 18:09:21-main--INFO -com.demoworkshop.qa.TestBase:Enter the Quantity
+ 2020-06-11 18:09:22-main--INFO -com.demoworkshop.qa.TestBase:Click on Add to Cart Button
+ 2020-06-11 18:09:23-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-11 18:09:24-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Computers is matched with Actual value : Computers
+ 2020-06-11 18:09:24-main--INFO -com.demoworkshop.qa.TestBase:Clicking Desktop from Demo WebShop
+ 2020-06-11 18:09:33-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-11 18:09:33-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Jewelry is matched with Actual value : Jewelry
+ 2020-06-11 18:09:38-main--INFO -com.demoworkshop.qa.TestBase:Cliking gift Cards
+ 2020-06-11 18:09:38-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of OrderBy
+ 2020-06-11 18:09:39-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of Display
+ 2020-06-11 18:09:39-main--INFO -com.demoworkshop.qa.TestBase:Clicking Virtual gift card
+ 2020-06-11 18:09:40-main--INFO -com.demoworkshop.qa.TestBase:Adding the Quantity
+ 2020-06-11 18:09:42-main--INFO -com.demoworkshop.qa.TestBase:Clicking Add to cart
+ 2020-06-11 18:09:42-main--INFO -com.demoworkshop.qa.TestBase:Close the error
+ 2020-06-11 18:09:44-main--INFO -com.demoworkshop.qa.TestBase:Enter the Recipient Name
+ 2020-06-11 18:09:46-main--INFO -com.demoworkshop.qa.TestBase:Enter the Recipient Email
+ 2020-06-11 18:09:48-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart
+ 2020-06-11 18:36:41-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-11 18:36:44-main--INFO -com.demoworkshop.qa.TestBase:Click on login page
+ 2020-06-11 18:37:44-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-11 19:02:42-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-11 19:02:44-main--INFO -com.demoworkshop.qa.TestBase:Click on login page
+ 2020-06-11 19:02:44-main--INFO -com.demoworkshop.qa.TestBase:Entered email
+ 2020-06-11 19:02:45-main--INFO -com.demoworkshop.qa.TestBase:Entered password
+ 2020-06-11 19:02:45-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-11 19:02:46-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Tricentis Demo Web Shop is matched with Actual value : Tricentis Demo Web Shop
+ 2020-06-11 19:02:46-main--INFO -com.demoworkshop.qa.TestBase:clicking Shipping Cart on Demo Web shop
+ 2020-06-11 19:02:46-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-11 19:02:46-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Books is matched with Actual value : Books
+ 2020-06-11 19:02:46-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-11 19:02:47-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-11 19:02:47-main--INFO -com.demoworkshop.qa.TestBase:Select the picture of health book
+ 2020-06-11 19:02:48-main--INFO -com.demoworkshop.qa.TestBase:Enter the Quantity
+ 2020-06-11 19:02:50-main--INFO -com.demoworkshop.qa.TestBase:Click on Add to Cart Button
+ 2020-06-11 19:02:51-main--INFO -com.demoworkshop.qa.TestBase:Verifying the computers page is displayed
+ 2020-06-11 19:02:52-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Computers is matched with Actual value : Computers
+ 2020-06-11 19:02:52-main--INFO -com.demoworkshop.qa.TestBase:Clicking Desktop from Demo WebShop
+ 2020-06-11 19:02:52-main--INFO -com.demoworkshop.qa.TestBase:Select the Dropdown orderBy
+ 2020-06-11 19:02:54-main--INFO -com.demoworkshop.qa.TestBase:Select the Dropdown Display
+ 2020-06-11 19:02:55-main--INFO -com.demoworkshop.qa.TestBase:Select Simple Computer
+ 2020-06-11 19:02:56-main--INFO -com.demoworkshop.qa.TestBase:Entered The Quantityr
+ 2020-06-11 19:02:57-main--INFO -com.demoworkshop.qa.TestBase:Add to Cart first
+ 2020-06-11 19:02:58-main--INFO -com.demoworkshop.qa.TestBase:Close the Error
+ 2020-06-11 19:03:00-main--INFO -com.demoworkshop.qa.TestBase:Select the Processor
+ 2020-06-11 19:03:02-main--INFO -com.demoworkshop.qa.TestBase:Add to cart second
+ 2020-06-11 19:03:02-main--INFO -com.demoworkshop.qa.TestBase:Selecting Jewelry from demo webshop
+ 2020-06-11 19:03:02-main--INFO -com.demoworkshop.qa.TestBase:Verifying the Jewelry page is displayed
+ 2020-06-11 19:03:03-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Jewelry is matched with Actual value : Jewelry
+ 2020-06-11 19:03:03-main--INFO -com.demoworkshop.qa.TestBase:Selecting Dropdown orderBy
+ 2020-06-11 19:03:03-main--INFO -com.demoworkshop.qa.TestBase:Selecting Dropdown List
+ 2020-06-11 19:03:06-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart first
+ 2020-06-11 19:03:06-main--INFO -com.demoworkshop.qa.TestBase:Entered cm for Jewelry
+ 2020-06-11 19:03:08-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart second
+ 2020-06-11 19:03:08-main--INFO -com.demoworkshop.qa.TestBase:Cliking gift Cards
+ 2020-06-11 19:03:08-main--INFO -com.demoworkshop.qa.TestBase:Verifying the Gift card page is displayed
+ 2020-06-11 19:03:09-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Gift Cards is matched with Actual value : Gift Cards
+ 2020-06-11 19:03:09-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of OrderBy
+ 2020-06-11 19:03:09-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of Display
+ 2020-06-11 19:03:10-main--INFO -com.demoworkshop.qa.TestBase:Clicking Virtual gift card
+ 2020-06-11 19:03:11-main--INFO -com.demoworkshop.qa.TestBase:Adding the Quantity
+ 2020-06-11 19:03:13-main--INFO -com.demoworkshop.qa.TestBase:Clicking Add to cart first
+ 2020-06-11 19:03:13-main--INFO -com.demoworkshop.qa.TestBase:Close the error
+ 2020-06-11 19:03:15-main--INFO -com.demoworkshop.qa.TestBase:Enter the Recipient Name
+ 2020-06-11 19:03:17-main--INFO -com.demoworkshop.qa.TestBase:Enter the Recipient Email
+ 2020-06-11 19:03:19-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart second
+ 2020-06-11 19:03:20-main--INFO -com.demoworkshop.qa.TestBase:Clicking Shipping cart
+ 2020-06-11 19:03:20-main--INFO -com.demoworkshop.qa.TestBase:Clicking agree checkbox
+ 2020-06-11 19:03:22-main--INFO -com.demoworkshop.qa.TestBase:Clicking Check Out
+ 2020-06-11 19:03:24-main--INFO -com.demoworkshop.qa.TestBase:Select Billing Address
+ 2020-06-11 19:03:26-main--INFO -com.demoworkshop.qa.TestBase:Clicking Billing Continue
+ 2020-06-11 19:03:27-main--INFO -com.demoworkshop.qa.TestBase:Select Shipping Adress
+ 2020-06-11 19:03:27-main--INFO -com.demoworkshop.qa.TestBase:Clicking Shipping Continue
+ 2020-06-11 19:03:27-main--INFO -com.demoworkshop.qa.TestBase:Select Shipping Method
+ 2020-06-11 19:03:29-main--INFO -com.demoworkshop.qa.TestBase:Clicking Continue Shipping
+ 2020-06-11 19:03:31-main--INFO -com.demoworkshop.qa.TestBase:Select Payment Method
+ 2020-06-11 19:03:33-main--INFO -com.demoworkshop.qa.TestBase:clicking payment method continue
+ 2020-06-11 19:03:35-main--INFO -com.demoworkshop.qa.TestBase:Clicking Payment information continue
+ 2020-06-11 19:03:37-main--INFO -com.demoworkshop.qa.TestBase:Clicking Confrim Order
+ 2020-06-11 19:10:48-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-11 19:10:50-main--INFO -com.demoworkshop.qa.TestBase:Click on login page
+ 2020-06-11 19:10:50-main--INFO -com.demoworkshop.qa.TestBase:Entered email
+ 2020-06-11 19:10:51-main--INFO -com.demoworkshop.qa.TestBase:Entered password
+ 2020-06-11 19:10:51-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-11 19:10:52-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Tricentis Demo Web Shop is matched with Actual value : Tricentis Demo Web Shop
+ 2020-06-11 19:10:52-main--INFO -com.demoworkshop.qa.TestBase:clicking Books on Demo Web shop
+ 2020-06-11 19:10:52-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-11 19:10:53-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Books is matched with Actual value : Books
+ 2020-06-11 19:10:53-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-11 19:10:53-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-11 19:10:54-main--INFO -com.demoworkshop.qa.TestBase:Select the picture of health book
+ 2020-06-11 19:10:54-main--INFO -com.demoworkshop.qa.TestBase:Enter the Quantity
+ 2020-06-11 19:10:56-main--INFO -com.demoworkshop.qa.TestBase:Click on Add to Cart Button
+ 2020-06-11 19:10:57-main--INFO -com.demoworkshop.qa.TestBase:Verifying the computers page is displayed
+ 2020-06-11 19:10:57-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Computers is matched with Actual value : Computers
+ 2020-06-11 19:10:57-main--INFO -com.demoworkshop.qa.TestBase:Clicking Desktop from Demo WebShop
+ 2020-06-11 19:10:58-main--INFO -com.demoworkshop.qa.TestBase:Select the Dropdown orderBy
+ 2020-06-11 19:10:58-main--INFO -com.demoworkshop.qa.TestBase:Select the Dropdown Display
+ 2020-06-11 19:10:59-main--INFO -com.demoworkshop.qa.TestBase:Select Simple Computer
+ 2020-06-11 19:11:00-main--INFO -com.demoworkshop.qa.TestBase:Entered The Quantityr
+ 2020-06-11 19:11:01-main--INFO -com.demoworkshop.qa.TestBase:Add to Cart first
+ 2020-06-11 19:11:02-main--INFO -com.demoworkshop.qa.TestBase:Close the Error
+ 2020-06-11 19:11:04-main--INFO -com.demoworkshop.qa.TestBase:Select the Processor
+ 2020-06-11 19:11:06-main--INFO -com.demoworkshop.qa.TestBase:Add to cart second
+ 2020-06-11 19:11:06-main--INFO -com.demoworkshop.qa.TestBase:Selecting Jewelry from demo webshop
+ 2020-06-11 19:11:06-main--INFO -com.demoworkshop.qa.TestBase:Verifying the Jewelry page is displayed
+ 2020-06-11 19:11:07-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Jewelry is matched with Actual value : Jewelry
+ 2020-06-11 19:11:07-main--INFO -com.demoworkshop.qa.TestBase:Selecting Dropdown orderBy
+ 2020-06-11 19:11:07-main--INFO -com.demoworkshop.qa.TestBase:Selecting Dropdown List
+ 2020-06-11 19:11:10-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart first
+ 2020-06-11 19:11:10-main--INFO -com.demoworkshop.qa.TestBase:Entered cm for Jewelry
+ 2020-06-11 19:11:12-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart second
+ 2020-06-11 19:11:12-main--INFO -com.demoworkshop.qa.TestBase:Cliking gift Cards
+ 2020-06-11 19:11:12-main--INFO -com.demoworkshop.qa.TestBase:Verifying the Gift card page is displayed
+ 2020-06-11 19:11:13-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Gift Cards is matched with Actual value : Gift Cards
+ 2020-06-11 19:11:13-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of OrderBy
+ 2020-06-11 19:11:13-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of Display
+ 2020-06-11 19:11:13-main--INFO -com.demoworkshop.qa.TestBase:Clicking Virtual gift card
+ 2020-06-11 19:11:15-main--INFO -com.demoworkshop.qa.TestBase:Adding the Quantity
+ 2020-06-11 19:11:16-main--INFO -com.demoworkshop.qa.TestBase:Clicking Add to cart first
+ 2020-06-11 19:11:16-main--INFO -com.demoworkshop.qa.TestBase:Close the error
+ 2020-06-11 19:11:19-main--INFO -com.demoworkshop.qa.TestBase:Enter the Recipient Name
+ 2020-06-11 19:11:21-main--INFO -com.demoworkshop.qa.TestBase:Enter the Recipient Email
+ 2020-06-11 19:11:23-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart second
+ 2020-06-11 19:11:23-main--INFO -com.demoworkshop.qa.TestBase:Clicking Shipping cart
+ 2020-06-11 19:11:23-main--INFO -com.demoworkshop.qa.TestBase:Clicking agree checkbox
+ 2020-06-11 19:11:25-main--INFO -com.demoworkshop.qa.TestBase:Clicking Check Out
+ 2020-06-11 19:11:27-main--INFO -com.demoworkshop.qa.TestBase:Select Billing Address
+ 2020-06-11 19:11:29-main--INFO -com.demoworkshop.qa.TestBase:Clicking Billing Continue
+ 2020-06-11 19:11:29-main--INFO -com.demoworkshop.qa.TestBase:Select Shipping Adress
+ 2020-06-11 19:11:30-main--INFO -com.demoworkshop.qa.TestBase:Clicking Shipping Continue
+ 2020-06-11 19:11:30-main--INFO -com.demoworkshop.qa.TestBase:Select Shipping Method
+ 2020-06-11 19:11:32-main--INFO -com.demoworkshop.qa.TestBase:Clicking Continue Shipping
+ 2020-06-11 19:11:34-main--INFO -com.demoworkshop.qa.TestBase:Select Payment Method
+ 2020-06-11 19:11:36-main--INFO -com.demoworkshop.qa.TestBase:clicking payment method continue
+ 2020-06-11 19:11:38-main--INFO -com.demoworkshop.qa.TestBase:Clicking Payment information continue
+ 2020-06-11 19:11:40-main--INFO -com.demoworkshop.qa.TestBase:Clicking Confrim Order
+ 2020-06-12 13:32:06-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-12 13:32:08-main--INFO -com.demoworkshop.qa.TestBase:Click on login page
+ 2020-06-12 13:32:08-main--INFO -com.demoworkshop.qa.TestBase:Entered email
+ 2020-06-12 13:32:09-main--INFO -com.demoworkshop.qa.TestBase:Entered password
+ 2020-06-12 13:32:09-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-12 13:32:10-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Tricentis Demo Web Shop is matched with Actual value : Tricentis Demo Web Shop
+ 2020-06-12 13:32:10-main--INFO -com.demoworkshop.qa.TestBase:clicking Books on Demo Web shop
+ 2020-06-12 13:32:10-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-12 13:32:11-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Books is matched with Actual value : Books
+ 2020-06-12 13:32:11-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-12 13:32:11-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-12 13:32:12-main--INFO -com.demoworkshop.qa.TestBase:Select the picture of health book
+ 2020-06-12 13:32:12-main--INFO -com.demoworkshop.qa.TestBase:Enter the Quantity
+ 2020-06-12 13:32:13-main--INFO -com.demoworkshop.qa.TestBase:Click on Add to Cart Button
+ 2020-06-12 13:32:14-main--INFO -com.demoworkshop.qa.TestBase:Verifying the computers page is displayed
+ 2020-06-12 13:32:15-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Computers is matched with Actual value : Computers
+ 2020-06-12 13:32:15-main--INFO -com.demoworkshop.qa.TestBase:Clicking Desktop from Demo WebShop
+ 2020-06-12 13:32:15-main--INFO -com.demoworkshop.qa.TestBase:Select the Dropdown orderBy
+ 2020-06-12 13:32:16-main--INFO -com.demoworkshop.qa.TestBase:Select the Dropdown Display
+ 2020-06-12 13:32:17-main--INFO -com.demoworkshop.qa.TestBase:Select Simple Computer
+ 2020-06-12 13:32:18-main--INFO -com.demoworkshop.qa.TestBase:Entered The Quantityr
+ 2020-06-12 13:32:19-main--INFO -com.demoworkshop.qa.TestBase:Add to Cart first
+ 2020-06-12 13:32:19-main--INFO -com.demoworkshop.qa.TestBase:Close the Error
+ 2020-06-12 13:32:21-main--INFO -com.demoworkshop.qa.TestBase:Select the Processor
+ 2020-06-12 13:32:23-main--INFO -com.demoworkshop.qa.TestBase:Add to cart second
+ 2020-06-12 13:32:24-main--INFO -com.demoworkshop.qa.TestBase:Selecting Jewelry from demo webshop
+ 2020-06-12 13:32:24-main--INFO -com.demoworkshop.qa.TestBase:Verifying the Jewelry page is displayed
+ 2020-06-12 13:32:25-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Jewelry is matched with Actual value : Jewelry
+ 2020-06-12 13:32:25-main--INFO -com.demoworkshop.qa.TestBase:Selecting Dropdown orderBy
+ 2020-06-12 13:32:25-main--INFO -com.demoworkshop.qa.TestBase:Selecting Dropdown List
+ 2020-06-12 13:32:28-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart first
+ 2020-06-12 13:32:28-main--INFO -com.demoworkshop.qa.TestBase:Entered cm for Jewelry
+ 2020-06-12 13:32:31-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart second
+ 2020-06-12 13:32:31-main--INFO -com.demoworkshop.qa.TestBase:Cliking gift Cards
+ 2020-06-12 13:32:31-main--INFO -com.demoworkshop.qa.TestBase:Verifying the Gift card page is displayed
+ 2020-06-12 13:32:32-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Gift Cards is matched with Actual value : Gift Cards
+ 2020-06-12 13:32:32-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of OrderBy
+ 2020-06-12 13:32:33-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of Display
+ 2020-06-12 13:32:34-main--INFO -com.demoworkshop.qa.TestBase:Clicking Virtual gift card
+ 2020-06-12 13:32:35-main--INFO -com.demoworkshop.qa.TestBase:Adding the Quantity
+ 2020-06-12 13:32:36-main--INFO -com.demoworkshop.qa.TestBase:Clicking Add to cart first
+ 2020-06-12 13:32:36-main--INFO -com.demoworkshop.qa.TestBase:Close the error
+ 2020-06-12 13:32:39-main--INFO -com.demoworkshop.qa.TestBase:Enter the Recipient Name
+ 2020-06-12 13:32:41-main--INFO -com.demoworkshop.qa.TestBase:Enter the Recipient Email
+ 2020-06-12 13:32:43-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart second
+ 2020-06-12 13:32:43-main--INFO -com.demoworkshop.qa.TestBase:Clicking Shipping cart
+ 2020-06-12 13:32:43-main--INFO -com.demoworkshop.qa.TestBase:Clicking agree checkbox
+ 2020-06-12 13:32:45-main--INFO -com.demoworkshop.qa.TestBase:Clicking Check Out
+ 2020-06-12 13:32:47-main--INFO -com.demoworkshop.qa.TestBase:Select Billing Address
+ 2020-06-12 13:32:49-main--INFO -com.demoworkshop.qa.TestBase:Clicking Billing Continue
+ 2020-06-12 13:32:49-main--INFO -com.demoworkshop.qa.TestBase:Select Shipping Adress
+ 2020-06-12 13:32:50-main--INFO -com.demoworkshop.qa.TestBase:Clicking Shipping Continue
+ 2020-06-12 13:32:50-main--INFO -com.demoworkshop.qa.TestBase:Select Shipping Method
+ 2020-06-12 13:32:52-main--INFO -com.demoworkshop.qa.TestBase:Clicking Continue Shipping
+ 2020-06-12 13:32:54-main--INFO -com.demoworkshop.qa.TestBase:Select Payment Method
+ 2020-06-12 13:32:56-main--INFO -com.demoworkshop.qa.TestBase:clicking payment method continue
+ 2020-06-12 13:32:58-main--INFO -com.demoworkshop.qa.TestBase:Clicking Payment information continue
+ 2020-06-12 13:33:00-main--INFO -com.demoworkshop.qa.TestBase:Clicking Confrim Order
+ 2020-06-12 13:40:13-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-12 13:40:15-main--INFO -com.demoworkshop.qa.TestBase:Click on login page
+ 2020-06-12 13:40:15-main--INFO -com.demoworkshop.qa.TestBase:Entered email
+ 2020-06-12 13:40:16-main--INFO -com.demoworkshop.qa.TestBase:Entered password
+ 2020-06-12 13:40:16-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-12 13:40:17-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Tricentis Demo Web Shop is matched with Actual value : Tricentis Demo Web Shop
+ 2020-06-12 13:40:17-main--INFO -com.demoworkshop.qa.TestBase:clicking Books on Demo Web shop
+ 2020-06-12 13:40:17-main--INFO -com.demoworkshop.qa.TestBase:Verifying the Books page is displayed
+ 2020-06-12 13:40:17-main--INFO -com.demoworkshop.qa.TestBase:Books page is displayed with expected :Books is matched with Actual value : Books
+ 2020-06-12 13:40:17-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-12 13:40:18-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-12 13:40:18-main--INFO -com.demoworkshop.qa.TestBase:Select the picture of health book
+ 2020-06-12 13:40:19-main--INFO -com.demoworkshop.qa.TestBase:Enter the Quantity
+ 2020-06-12 13:40:21-main--INFO -com.demoworkshop.qa.TestBase:Click on Add to Cart Button
+ 2020-06-12 13:40:21-main--INFO -com.demoworkshop.qa.TestBase:Verifying the computers page is displayed
+ 2020-06-12 13:40:22-main--INFO -com.demoworkshop.qa.TestBase:computers page is displayed with expected :Computers is matched with Actual value : Computers
+ 2020-06-12 13:40:22-main--INFO -com.demoworkshop.qa.TestBase:Clicking Desktop from Demo WebShop
+ 2020-06-12 13:40:22-main--INFO -com.demoworkshop.qa.TestBase:Select the Dropdown orderBy
+ 2020-06-12 13:40:22-main--INFO -com.demoworkshop.qa.TestBase:Select the Dropdown Display
+ 2020-06-12 13:40:23-main--INFO -com.demoworkshop.qa.TestBase:Select Simple Computer
+ 2020-06-12 13:40:24-main--INFO -com.demoworkshop.qa.TestBase:Entered The Quantityr
+ 2020-06-12 13:40:25-main--INFO -com.demoworkshop.qa.TestBase:Add to Cart first
+ 2020-06-12 13:40:25-main--INFO -com.demoworkshop.qa.TestBase:Close the Error
+ 2020-06-12 13:40:27-main--INFO -com.demoworkshop.qa.TestBase:Select the Processor
+ 2020-06-12 13:40:29-main--INFO -com.demoworkshop.qa.TestBase:Add to cart second
+ 2020-06-12 13:40:30-main--INFO -com.demoworkshop.qa.TestBase:Selecting Jewelry from demo webshop
+ 2020-06-12 13:40:30-main--INFO -com.demoworkshop.qa.TestBase:Verifying the Jewelry page is displayed
+ 2020-06-12 13:40:30-main--INFO -com.demoworkshop.qa.TestBase:Jewelry page is displayed with expected :Jewelry is matched with Actual value : Jewelry
+ 2020-06-12 13:40:30-main--INFO -com.demoworkshop.qa.TestBase:Selecting Dropdown orderBy
+ 2020-06-12 13:40:31-main--INFO -com.demoworkshop.qa.TestBase:Selecting Dropdown List
+ 2020-06-12 13:40:33-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart first
+ 2020-06-12 13:40:33-main--INFO -com.demoworkshop.qa.TestBase:Entered cm for Jewelry
+ 2020-06-12 13:40:35-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart second
+ 2020-06-12 13:40:35-main--INFO -com.demoworkshop.qa.TestBase:Cliking gift Cards
+ 2020-06-12 13:40:35-main--INFO -com.demoworkshop.qa.TestBase:Verifying the Gift card page is displayed
+ 2020-06-12 13:40:35-main--INFO -com.demoworkshop.qa.TestBase:Gift card page is displayed with expected :Gift Cards is matched with Actual value : Gift Cards
+ 2020-06-12 13:40:35-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of OrderBy
+ 2020-06-12 13:40:36-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of Display
+ 2020-06-12 13:40:36-main--INFO -com.demoworkshop.qa.TestBase:Clicking Virtual gift card
+ 2020-06-12 13:40:37-main--INFO -com.demoworkshop.qa.TestBase:Adding the Quantity
+ 2020-06-12 13:40:38-main--INFO -com.demoworkshop.qa.TestBase:Clicking Add to cart first
+ 2020-06-12 13:40:38-main--INFO -com.demoworkshop.qa.TestBase:Close the error
+ 2020-06-12 13:40:40-main--INFO -com.demoworkshop.qa.TestBase:Enter the Recipient Name
+ 2020-06-12 13:40:43-main--INFO -com.demoworkshop.qa.TestBase:Enter the Recipient Email
+ 2020-06-12 13:40:45-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart second
+ 2020-06-12 13:40:45-main--INFO -com.demoworkshop.qa.TestBase:Clicking Shipping cart
+ 2020-06-12 13:40:45-main--INFO -com.demoworkshop.qa.TestBase:Clicking agree checkbox
+ 2020-06-12 13:40:47-main--INFO -com.demoworkshop.qa.TestBase:Clicking Check Out
+ 2020-06-12 13:40:49-main--INFO -com.demoworkshop.qa.TestBase:Select Billing Address
+ 2020-06-12 13:40:51-main--INFO -com.demoworkshop.qa.TestBase:Clicking Billing Continue
+ 2020-06-12 13:40:51-main--INFO -com.demoworkshop.qa.TestBase:Select Shipping Adress
+ 2020-06-12 13:40:51-main--INFO -com.demoworkshop.qa.TestBase:Clicking Shipping Continue
+ 2020-06-12 13:40:51-main--INFO -com.demoworkshop.qa.TestBase:Select Shipping Method
+ 2020-06-12 13:40:53-main--INFO -com.demoworkshop.qa.TestBase:Clicking Continue Shipping
+ 2020-06-12 13:40:56-main--INFO -com.demoworkshop.qa.TestBase:Select Payment Method
+ 2020-06-12 13:40:58-main--INFO -com.demoworkshop.qa.TestBase:clicking payment method continue
+ 2020-06-12 13:41:00-main--INFO -com.demoworkshop.qa.TestBase:Clicking Payment information continue
+ 2020-06-12 13:41:02-main--INFO -com.demoworkshop.qa.TestBase:Clicking Confrim Order
+ 2020-06-12 15:26:42-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-12 15:26:44-main--INFO -com.demoworkshop.qa.TestBase:Click on login page
+ 2020-06-12 15:26:45-main--INFO -com.demoworkshop.qa.TestBase:Entered email
+ 2020-06-12 15:26:45-main--INFO -com.demoworkshop.qa.TestBase:Entered password
+ 2020-06-12 15:26:46-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-12 15:26:46-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Tricentis Demo Web Shop is matched with Actual value : Tricentis Demo Web Shop
+ 2020-06-12 15:26:46-main--INFO -com.demoworkshop.qa.TestBase:clicking Books on Demo Web shop
+ 2020-06-12 15:26:46-main--INFO -com.demoworkshop.qa.TestBase:Verifying the Books page is displayed
+ 2020-06-12 15:27:07-main--INFO -com.demoworkshop.qa.TestBase:Verifying the computers page is displayed
+ 2020-06-12 15:27:08-main--INFO -com.demoworkshop.qa.TestBase:computers page is displayed with expected :Computers is matched with Actual value : Computers
+ 2020-06-12 15:27:08-main--INFO -com.demoworkshop.qa.TestBase:Clicking Desktop from Demo WebShop
+ 2020-06-12 15:27:08-main--INFO -com.demoworkshop.qa.TestBase:Select the Dropdown orderBy
+ 2020-06-12 15:27:09-main--INFO -com.demoworkshop.qa.TestBase:Select the Dropdown Display
+ 2020-06-12 15:27:10-main--INFO -com.demoworkshop.qa.TestBase:Select Simple Computer
+ 2020-06-12 15:27:10-main--INFO -com.demoworkshop.qa.TestBase:Entered The Quantityr
+ 2020-06-12 15:27:12-main--INFO -com.demoworkshop.qa.TestBase:Add to Cart first
+ 2020-06-12 15:27:12-main--INFO -com.demoworkshop.qa.TestBase:Close the Error
+ 2020-06-12 15:27:14-main--INFO -com.demoworkshop.qa.TestBase:Select the Processor
+ 2020-06-12 15:27:16-main--INFO -com.demoworkshop.qa.TestBase:Add to cart second
+ 2020-06-12 15:27:16-main--INFO -com.demoworkshop.qa.TestBase:Selecting Jewelry from demo webshop
+ 2020-06-12 15:27:17-main--INFO -com.demoworkshop.qa.TestBase:Verifying the Jewelry page is displayed
+ 2020-06-12 15:27:17-main--INFO -com.demoworkshop.qa.TestBase:Jewelry page is displayed with expected :Jewelry is matched with Actual value : Jewelry
+ 2020-06-12 15:27:17-main--INFO -com.demoworkshop.qa.TestBase:Selecting Dropdown orderBy
+ 2020-06-12 15:27:17-main--INFO -com.demoworkshop.qa.TestBase:Selecting Dropdown List
+ 2020-06-12 15:27:20-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart first
+ 2020-06-12 15:27:20-main--INFO -com.demoworkshop.qa.TestBase:Entered cm for Jewelry
+ 2020-06-12 15:27:22-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart second
+ 2020-06-12 15:27:22-main--INFO -com.demoworkshop.qa.TestBase:Cliking gift Cards
+ 2020-06-12 15:27:22-main--INFO -com.demoworkshop.qa.TestBase:Verifying the Gift card page is displayed
+ 2020-06-12 15:27:23-main--INFO -com.demoworkshop.qa.TestBase:Gift card page is displayed with expected :Gift Cards is matched with Actual value : Gift Cards
+ 2020-06-12 15:27:23-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of OrderBy
+ 2020-06-12 15:27:23-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of Display
+ 2020-06-12 15:27:24-main--INFO -com.demoworkshop.qa.TestBase:Clicking Virtual gift card
+ 2020-06-12 15:27:24-main--INFO -com.demoworkshop.qa.TestBase:Adding the Quantity
+ 2020-06-12 15:27:26-main--INFO -com.demoworkshop.qa.TestBase:Clicking Add to cart first
+ 2020-06-12 15:27:26-main--INFO -com.demoworkshop.qa.TestBase:Close the error
+ 2020-06-12 15:27:28-main--INFO -com.demoworkshop.qa.TestBase:Enter the Recipient Name
+ 2020-06-12 15:27:30-main--INFO -com.demoworkshop.qa.TestBase:Enter the Recipient Email
+ 2020-06-12 15:27:32-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart second
+ 2020-06-12 15:27:33-main--INFO -com.demoworkshop.qa.TestBase:Clicking Shipping cart
+ 2020-06-12 15:27:33-main--INFO -com.demoworkshop.qa.TestBase:Clicking agree checkbox
+ 2020-06-12 15:27:35-main--INFO -com.demoworkshop.qa.TestBase:Clicking Check Out
+ 2020-06-12 15:27:37-main--INFO -com.demoworkshop.qa.TestBase:Select Billing Address
+ 2020-06-12 15:27:39-main--INFO -com.demoworkshop.qa.TestBase:Clicking Billing Continue
+ 2020-06-12 15:27:39-main--INFO -com.demoworkshop.qa.TestBase:Select Shipping Adress
+ 2020-06-12 15:27:40-main--INFO -com.demoworkshop.qa.TestBase:Clicking Shipping Continue
+ 2020-06-12 15:27:40-main--INFO -com.demoworkshop.qa.TestBase:Select Shipping Method
+ 2020-06-12 15:27:42-main--INFO -com.demoworkshop.qa.TestBase:Clicking Continue Shipping
+ 2020-06-12 15:27:44-main--INFO -com.demoworkshop.qa.TestBase:Select Payment Method
+ 2020-06-12 15:27:46-main--INFO -com.demoworkshop.qa.TestBase:clicking payment method continue
+ 2020-06-12 15:27:48-main--INFO -com.demoworkshop.qa.TestBase:Clicking Payment information continue
+ 2020-06-12 15:27:50-main--INFO -com.demoworkshop.qa.TestBase:Clicking Confrim Order
+ 2020-06-12 17:04:10-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-12 17:04:12-main--INFO -com.demoworkshop.qa.TestBase:Click on login page
+ 2020-06-12 17:04:13-main--INFO -com.demoworkshop.qa.TestBase:Entered email
+ 2020-06-12 17:04:13-main--INFO -com.demoworkshop.qa.TestBase:Entered password
+ 2020-06-12 17:04:14-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-12 17:04:14-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Tricentis Demo Web Shop is matched with Actual value : Tricentis Demo Web Shop
+ 2020-06-12 17:04:14-main--INFO -com.demoworkshop.qa.TestBase:clicking Books on Demo Web shop
+ 2020-06-12 17:04:15-main--INFO -com.demoworkshop.qa.TestBase:Verifying the Books page is displayed
+ 2020-06-12 17:04:15-main--INFO -com.demoworkshop.qa.TestBase:Books page is displayed with expected :Books is matched with Actual value : Books
+ 2020-06-12 17:04:15-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-12 17:04:16-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-12 17:04:16-main--INFO -com.demoworkshop.qa.TestBase:Select the picture of health book
+ 2020-06-12 17:04:17-main--INFO -com.demoworkshop.qa.TestBase:Enter the Quantity
+ 2020-06-12 17:04:18-main--INFO -com.demoworkshop.qa.TestBase:Click on Add to Cart Button
+ 2020-06-12 17:04:19-main--INFO -com.demoworkshop.qa.TestBase:Verifying the computers page is displayed
+ 2020-06-12 17:04:19-main--INFO -com.demoworkshop.qa.TestBase:computers page is displayed with expected :Computers is matched with Actual value : Computers
+ 2020-06-12 17:04:19-main--INFO -com.demoworkshop.qa.TestBase:Clicking Desktop from Demo WebShop
+ 2020-06-12 17:04:19-main--INFO -com.demoworkshop.qa.TestBase:Select the Dropdown orderBy
+ 2020-06-12 17:04:21-main--INFO -com.demoworkshop.qa.TestBase:Select the Dropdown Display
+ 2020-06-12 17:04:21-main--INFO -com.demoworkshop.qa.TestBase:Select Simple Computer
+ 2020-06-12 17:04:22-main--INFO -com.demoworkshop.qa.TestBase:Entered The Quantityr
+ 2020-06-12 17:04:23-main--INFO -com.demoworkshop.qa.TestBase:Add to Cart first
+ 2020-06-12 17:04:23-main--INFO -com.demoworkshop.qa.TestBase:Close the Error
+ 2020-06-12 17:04:25-main--INFO -com.demoworkshop.qa.TestBase:Select the Processor
+ 2020-06-12 17:04:26-main--INFO -com.demoworkshop.qa.TestBase:Add to cart second
+ 2020-06-12 17:04:26-main--INFO -com.demoworkshop.qa.TestBase:Selecting Jewelry from demo webshop
+ 2020-06-12 17:04:26-main--INFO -com.demoworkshop.qa.TestBase:Verifying the Jewelry page is displayed
+ 2020-06-12 17:04:27-main--INFO -com.demoworkshop.qa.TestBase:Jewelry page is displayed with expected :Jewelry is matched with Actual value : Jewelry
+ 2020-06-12 17:04:27-main--INFO -com.demoworkshop.qa.TestBase:Selecting Dropdown orderBy
+ 2020-06-12 17:04:27-main--INFO -com.demoworkshop.qa.TestBase:Selecting Dropdown List
+ 2020-06-12 17:04:29-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart first
+ 2020-06-12 17:04:29-main--INFO -com.demoworkshop.qa.TestBase:Entered cm for Jewelry
+ 2020-06-12 17:04:31-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart second
+ 2020-06-12 17:04:31-main--INFO -com.demoworkshop.qa.TestBase:Cliking gift Cards
+ 2020-06-12 17:04:31-main--INFO -com.demoworkshop.qa.TestBase:Verifying the Gift card page is displayed
+ 2020-06-12 17:04:32-main--INFO -com.demoworkshop.qa.TestBase:Gift card page is displayed with expected :Gift Cards is matched with Actual value : Gift Cards
+ 2020-06-12 17:04:32-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of OrderBy
+ 2020-06-12 17:04:32-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of Display
+ 2020-06-12 17:04:33-main--INFO -com.demoworkshop.qa.TestBase:Clicking Virtual gift card
+ 2020-06-12 17:04:33-main--INFO -com.demoworkshop.qa.TestBase:Adding the Quantity
+ 2020-06-12 17:04:35-main--INFO -com.demoworkshop.qa.TestBase:Clicking Add to cart first
+ 2020-06-12 17:04:35-main--INFO -com.demoworkshop.qa.TestBase:Close the error
+ 2020-06-12 17:04:36-main--INFO -com.demoworkshop.qa.TestBase:Enter the Recipient Name
+ 2020-06-12 17:04:37-main--INFO -com.demoworkshop.qa.TestBase:Enter the Recipient Email
+ 2020-06-12 17:04:38-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart second
+ 2020-06-12 17:04:39-main--INFO -com.demoworkshop.qa.TestBase:Clicking Shipping cart
+ 2020-06-12 17:04:39-main--INFO -com.demoworkshop.qa.TestBase:Clicking agree checkbox
+ 2020-06-12 17:04:40-main--INFO -com.demoworkshop.qa.TestBase:Clicking Check Out
+ 2020-06-12 17:04:41-main--INFO -com.demoworkshop.qa.TestBase:Select Billing Address
+ 2020-06-12 17:04:43-main--INFO -com.demoworkshop.qa.TestBase:Clicking Billing Continue
+ 2020-06-12 17:04:43-main--INFO -com.demoworkshop.qa.TestBase:Select Shipping Adress
+ 2020-06-12 17:04:43-main--INFO -com.demoworkshop.qa.TestBase:Clicking Shipping Continue
+ 2020-06-12 17:04:43-main--INFO -com.demoworkshop.qa.TestBase:Select Shipping Method
+ 2020-06-12 17:04:45-main--INFO -com.demoworkshop.qa.TestBase:Clicking Continue Shipping
+ 2020-06-12 17:04:46-main--INFO -com.demoworkshop.qa.TestBase:Select Payment Method
+ 2020-06-12 17:04:47-main--INFO -com.demoworkshop.qa.TestBase:clicking payment method continue
+ 2020-06-12 17:04:48-main--INFO -com.demoworkshop.qa.TestBase:Clicking Payment information continue
+ 2020-06-12 17:04:49-main--INFO -com.demoworkshop.qa.TestBase:Clicking Confrim Order
+ 2020-06-13 19:31:17-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-13 19:31:19-main--INFO -com.demoworkshop.qa.TestBase:Click on login page
+ 2020-06-13 19:33:08-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-13 19:33:11-main--INFO -com.demoworkshop.qa.TestBase:Click on login page
+ 2020-06-13 19:33:58-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-13 19:34:00-main--INFO -com.demoworkshop.qa.TestBase:Click on login page
+ 2020-06-13 19:34:00-main--INFO -com.demoworkshop.qa.TestBase:Entered email
+ 2020-06-13 19:34:01-main--INFO -com.demoworkshop.qa.TestBase:Entered password
+ 2020-06-13 19:34:02-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-13 19:34:02-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Tricentis Demo Web Shop is matched with Actual value : Tricentis Demo Web Shop
+ 2020-06-13 19:34:02-main--INFO -com.demoworkshop.qa.TestBase:clicking Books on Demo Web shop
+ 2020-06-13 19:34:02-main--INFO -com.demoworkshop.qa.TestBase:Verifying the Books page is displayed
+ 2020-06-13 19:34:03-main--INFO -com.demoworkshop.qa.TestBase:Books page is displayed with expected :Books is matched with Actual value : Books
+ 2020-06-13 19:34:03-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-13 19:34:03-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-13 19:34:04-main--INFO -com.demoworkshop.qa.TestBase:Select the picture of health book
+ 2020-06-13 19:34:04-main--INFO -com.demoworkshop.qa.TestBase:Enter the Quantity
+ 2020-06-13 19:34:06-main--INFO -com.demoworkshop.qa.TestBase:Click on Add to Cart Button
+ 2020-06-13 19:34:06-main--INFO -com.demoworkshop.qa.TestBase:Verifying the computers page is displayed
+ 2020-06-13 19:34:06-main--INFO -com.demoworkshop.qa.TestBase:computers page is displayed with expected :Computers is matched with Actual value : Computers
+ 2020-06-13 19:34:06-main--INFO -com.demoworkshop.qa.TestBase:Clicking Desktop from Demo WebShop
+ 2020-06-13 19:34:07-main--INFO -com.demoworkshop.qa.TestBase:Select the Dropdown orderBy
+ 2020-06-13 19:34:08-main--INFO -com.demoworkshop.qa.TestBase:Select the Dropdown Display
+ 2020-06-13 19:34:09-main--INFO -com.demoworkshop.qa.TestBase:Select Simple Computer
+ 2020-06-13 19:34:09-main--INFO -com.demoworkshop.qa.TestBase:Entered The Quantityr
+ 2020-06-13 19:34:11-main--INFO -com.demoworkshop.qa.TestBase:Add to Cart first
+ 2020-06-13 19:34:11-main--INFO -com.demoworkshop.qa.TestBase:Close the Error
+ 2020-06-13 19:34:12-main--INFO -com.demoworkshop.qa.TestBase:Select the Processor
+ 2020-06-13 19:34:13-main--INFO -com.demoworkshop.qa.TestBase:Add to cart second
+ 2020-06-13 19:34:14-main--INFO -com.demoworkshop.qa.TestBase:Selecting Jewelry from demo webshop
+ 2020-06-13 19:34:14-main--INFO -com.demoworkshop.qa.TestBase:Verifying the Jewelry page is displayed
+ 2020-06-13 19:34:14-main--INFO -com.demoworkshop.qa.TestBase:Jewelry page is displayed with expected :Jewelry is matched with Actual value : Jewelry
+ 2020-06-13 19:34:14-main--INFO -com.demoworkshop.qa.TestBase:Selecting Dropdown orderBy
+ 2020-06-13 19:34:15-main--INFO -com.demoworkshop.qa.TestBase:Selecting Dropdown List
+ 2020-06-13 19:34:16-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart first
+ 2020-06-13 19:34:16-main--INFO -com.demoworkshop.qa.TestBase:Entered cm for Jewelry
+ 2020-06-13 19:34:18-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart second
+ 2020-06-13 19:34:18-main--INFO -com.demoworkshop.qa.TestBase:Cliking gift Cards
+ 2020-06-13 19:34:18-main--INFO -com.demoworkshop.qa.TestBase:Verifying the Gift card page is displayed
+ 2020-06-13 19:34:19-main--INFO -com.demoworkshop.qa.TestBase:Gift card page is displayed with expected :Gift Cards is matched with Actual value : Gift Cards
+ 2020-06-13 19:34:19-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of OrderBy
+ 2020-06-13 19:34:19-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of Display
+ 2020-06-13 19:34:20-main--INFO -com.demoworkshop.qa.TestBase:Clicking Virtual gift card
+ 2020-06-13 19:34:21-main--INFO -com.demoworkshop.qa.TestBase:Adding the Quantity
+ 2020-06-13 19:34:22-main--INFO -com.demoworkshop.qa.TestBase:Clicking Add to cart first
+ 2020-06-13 19:34:22-main--INFO -com.demoworkshop.qa.TestBase:Close the error
+ 2020-06-13 19:34:23-main--INFO -com.demoworkshop.qa.TestBase:Enter the Recipient Name
+ 2020-06-13 19:34:25-main--INFO -com.demoworkshop.qa.TestBase:Enter the Recipient Email
+ 2020-06-13 19:34:26-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart second
+ 2020-06-13 19:34:26-main--INFO -com.demoworkshop.qa.TestBase:Clicking Shipping cart
+ 2020-06-13 19:34:26-main--INFO -com.demoworkshop.qa.TestBase:Clicking agree checkbox
+ 2020-06-13 19:34:27-main--INFO -com.demoworkshop.qa.TestBase:Clicking Check Out
+ 2020-06-13 19:34:28-main--INFO -com.demoworkshop.qa.TestBase:Select Billing Address
+ 2020-06-13 19:34:30-main--INFO -com.demoworkshop.qa.TestBase:Clicking Billing Continue
+ 2020-06-13 19:34:30-main--INFO -com.demoworkshop.qa.TestBase:Select Shipping Adress
+ 2020-06-13 19:34:30-main--INFO -com.demoworkshop.qa.TestBase:Clicking Shipping Continue
+ 2020-06-13 19:34:31-main--INFO -com.demoworkshop.qa.TestBase:Select Shipping Method
+ 2020-06-13 19:34:32-main--INFO -com.demoworkshop.qa.TestBase:Clicking Continue Shipping
+ 2020-06-13 19:34:33-main--INFO -com.demoworkshop.qa.TestBase:Select Payment Method
+ 2020-06-13 19:34:34-main--INFO -com.demoworkshop.qa.TestBase:clicking payment method continue
+ 2020-06-13 19:34:35-main--INFO -com.demoworkshop.qa.TestBase:Clicking Payment information continue
+ 2020-06-13 19:34:36-main--INFO -com.demoworkshop.qa.TestBase:Clicking Confrim Order
+ 2020-06-13 19:38:05-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-13 19:38:07-main--INFO -com.demoworkshop.qa.TestBase:Click on login page
+ 2020-06-13 19:40:30-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-13 19:40:32-main--INFO -com.demoworkshop.qa.TestBase:Click on login page
+ 2020-06-13 19:41:58-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-13 19:42:00-main--INFO -com.demoworkshop.qa.TestBase:Click on login page
+ 2020-06-13 19:42:01-main--INFO -com.demoworkshop.qa.TestBase:Entered email
+ 2020-06-13 19:42:02-main--INFO -com.demoworkshop.qa.TestBase:Entered password
+ 2020-06-13 19:42:03-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-13 19:42:03-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Tricentis Demo Web Shop is matched with Actual value : Tricentis Demo Web Shop
+ 2020-06-13 19:42:03-main--INFO -com.demoworkshop.qa.TestBase:clicking Books on Demo Web shop
+ 2020-06-13 19:42:03-main--INFO -com.demoworkshop.qa.TestBase:Verifying the Books page is displayed
+ 2020-06-13 19:42:05-main--INFO -com.demoworkshop.qa.TestBase:Books page is displayed with expected :Books is matched with Actual value : Books
+ 2020-06-13 19:42:05-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-13 19:42:05-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-13 19:42:06-main--INFO -com.demoworkshop.qa.TestBase:Select the picture of health book
+ 2020-06-13 19:42:07-main--INFO -com.demoworkshop.qa.TestBase:Enter the Quantity
+ 2020-06-13 19:42:08-main--INFO -com.demoworkshop.qa.TestBase:Click on Add to Cart Button
+ 2020-06-13 19:42:09-main--INFO -com.demoworkshop.qa.TestBase:Verifying the computers page is displayed
+ 2020-06-13 19:42:10-main--INFO -com.demoworkshop.qa.TestBase:computers page is displayed with expected :Computers is matched with Actual value : Computers
+ 2020-06-13 19:42:10-main--INFO -com.demoworkshop.qa.TestBase:Clicking Desktop from Demo WebShop
+ 2020-06-13 19:42:10-main--INFO -com.demoworkshop.qa.TestBase:Select the Dropdown orderBy
+ 2020-06-13 19:42:11-main--INFO -com.demoworkshop.qa.TestBase:Select the Dropdown Display
+ 2020-06-13 19:42:11-main--INFO -com.demoworkshop.qa.TestBase:Select Simple Computer
+ 2020-06-13 19:42:12-main--INFO -com.demoworkshop.qa.TestBase:Entered The Quantityr
+ 2020-06-13 19:42:13-main--INFO -com.demoworkshop.qa.TestBase:Add to Cart first
+ 2020-06-13 19:42:14-main--INFO -com.demoworkshop.qa.TestBase:Close the Error
+ 2020-06-13 19:42:15-main--INFO -com.demoworkshop.qa.TestBase:Select the Processor
+ 2020-06-13 19:42:16-main--INFO -com.demoworkshop.qa.TestBase:Add to cart second
+ 2020-06-13 19:42:16-main--INFO -com.demoworkshop.qa.TestBase:Selecting Jewelry from demo webshop
+ 2020-06-13 19:42:16-main--INFO -com.demoworkshop.qa.TestBase:Verifying the Jewelry page is displayed
+ 2020-06-13 19:42:17-main--INFO -com.demoworkshop.qa.TestBase:Jewelry page is displayed with expected :Jewelry is matched with Actual value : Jewelry
+ 2020-06-13 19:42:17-main--INFO -com.demoworkshop.qa.TestBase:Selecting Dropdown orderBy
+ 2020-06-13 19:42:18-main--INFO -com.demoworkshop.qa.TestBase:Selecting Dropdown List
+ 2020-06-13 19:42:19-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart first
+ 2020-06-13 19:42:19-main--INFO -com.demoworkshop.qa.TestBase:Entered cm for Jewelry
+ 2020-06-13 19:42:21-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart second
+ 2020-06-13 19:42:21-main--INFO -com.demoworkshop.qa.TestBase:Cliking gift Cards
+ 2020-06-13 19:42:21-main--INFO -com.demoworkshop.qa.TestBase:Verifying the Gift card page is displayed
+ 2020-06-13 19:42:22-main--INFO -com.demoworkshop.qa.TestBase:Gift card page is displayed with expected :Gift Cards is matched with Actual value : Gift Cards
+ 2020-06-13 19:42:22-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of OrderBy
+ 2020-06-13 19:42:22-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of Display
+ 2020-06-13 19:42:23-main--INFO -com.demoworkshop.qa.TestBase:Clicking Virtual gift card
+ 2020-06-13 19:42:23-main--INFO -com.demoworkshop.qa.TestBase:Adding the Quantity
+ 2020-06-13 19:42:25-main--INFO -com.demoworkshop.qa.TestBase:Clicking Add to cart first
+ 2020-06-13 19:42:25-main--INFO -com.demoworkshop.qa.TestBase:Close the error
+ 2020-06-13 19:42:26-main--INFO -com.demoworkshop.qa.TestBase:Enter the Recipient Name
+ 2020-06-13 19:42:27-main--INFO -com.demoworkshop.qa.TestBase:Enter the Recipient Email
+ 2020-06-13 19:42:29-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart second
+ 2020-06-13 19:42:29-main--INFO -com.demoworkshop.qa.TestBase:Clicking Shipping cart
+ 2020-06-13 19:42:29-main--INFO -com.demoworkshop.qa.TestBase:Clicking agree checkbox
+ 2020-06-13 19:42:30-main--INFO -com.demoworkshop.qa.TestBase:Clicking Check Out
+ 2020-06-13 19:42:31-main--INFO -com.demoworkshop.qa.TestBase:Select Billing Address
+ 2020-06-13 19:42:32-main--INFO -com.demoworkshop.qa.TestBase:Clicking Billing Continue
+ 2020-06-13 19:42:33-main--INFO -com.demoworkshop.qa.TestBase:Select Shipping Adress
+ 2020-06-13 19:42:33-main--INFO -com.demoworkshop.qa.TestBase:Clicking Shipping Continue
+ 2020-06-13 19:42:33-main--INFO -com.demoworkshop.qa.TestBase:Select Shipping Method
+ 2020-06-13 19:42:34-main--INFO -com.demoworkshop.qa.TestBase:Clicking Continue Shipping
+ 2020-06-13 19:42:35-main--INFO -com.demoworkshop.qa.TestBase:Select Payment Method
+ 2020-06-13 19:42:36-main--INFO -com.demoworkshop.qa.TestBase:clicking payment method continue
+ 2020-06-13 19:42:38-main--INFO -com.demoworkshop.qa.TestBase:Clicking Payment information continue
+ 2020-06-13 19:42:39-main--INFO -com.demoworkshop.qa.TestBase:Clicking Confrim Order
+ 2020-06-14 09:14:29-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-14 09:14:32-main--INFO -com.demoworkshop.qa.TestBase:Click on login page
+ 2020-06-14 09:14:36-main--INFO -com.demoworkshop.qa.TestBase:Entered email
+ 2020-06-14 09:14:37-main--INFO -com.demoworkshop.qa.TestBase:Entered password
+ 2020-06-14 09:14:38-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-14 09:14:39-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Tricentis Demo Web Shop is matched with Actual value : Tricentis Demo Web Shop
+ 2020-06-14 09:14:39-main--INFO -com.demoworkshop.qa.TestBase:clicking Books on Demo Web shop
+ 2020-06-14 09:14:39-main--INFO -com.demoworkshop.qa.TestBase:Verifying the Books page is displayed
+ 2020-06-14 09:14:40-main--INFO -com.demoworkshop.qa.TestBase:Books page is displayed with expected :Books is matched with Actual value : Books
+ 2020-06-14 09:14:40-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-14 09:14:40-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-14 09:14:41-main--INFO -com.demoworkshop.qa.TestBase:Select the picture of health book
+ 2020-06-14 09:14:42-main--INFO -com.demoworkshop.qa.TestBase:Enter the Quantity
+ 2020-06-14 09:14:44-main--INFO -com.demoworkshop.qa.TestBase:Click on Add to Cart Button
+ 2020-06-14 09:14:44-main--INFO -com.demoworkshop.qa.TestBase:Verifying the computers page is displayed
+ 2020-06-14 09:14:45-main--INFO -com.demoworkshop.qa.TestBase:computers page is displayed with expected :Computers is matched with Actual value : Computers
+ 2020-06-14 09:14:45-main--INFO -com.demoworkshop.qa.TestBase:Clicking Desktop from Demo WebShop
+ 2020-06-14 09:14:45-main--INFO -com.demoworkshop.qa.TestBase:Select the Dropdown orderBy
+ 2020-06-14 09:14:47-main--INFO -com.demoworkshop.qa.TestBase:Select the Dropdown Display
+ 2020-06-14 09:14:47-main--INFO -com.demoworkshop.qa.TestBase:Select Simple Computer
+ 2020-06-14 09:14:48-main--INFO -com.demoworkshop.qa.TestBase:Entered The Quantityr
+ 2020-06-14 09:14:50-main--INFO -com.demoworkshop.qa.TestBase:Add to Cart first
+ 2020-06-14 09:14:50-main--INFO -com.demoworkshop.qa.TestBase:Close the Error
+ 2020-06-14 09:14:51-main--INFO -com.demoworkshop.qa.TestBase:Select the Processor
+ 2020-06-14 09:14:53-main--INFO -com.demoworkshop.qa.TestBase:Add to cart second
+ 2020-06-14 09:14:53-main--INFO -com.demoworkshop.qa.TestBase:Selecting Jewelry from demo webshop
+ 2020-06-14 09:14:53-main--INFO -com.demoworkshop.qa.TestBase:Verifying the Jewelry page is displayed
+ 2020-06-14 09:14:54-main--INFO -com.demoworkshop.qa.TestBase:Jewelry page is displayed with expected :Jewelry is matched with Actual value : Jewelry
+ 2020-06-14 09:14:54-main--INFO -com.demoworkshop.qa.TestBase:Selecting Dropdown orderBy
+ 2020-06-14 09:14:54-main--INFO -com.demoworkshop.qa.TestBase:Selecting Dropdown List
+ 2020-06-14 09:14:56-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart first
+ 2020-06-14 09:14:56-main--INFO -com.demoworkshop.qa.TestBase:Entered cm for Jewelry
+ 2020-06-14 09:14:59-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart second
+ 2020-06-14 09:14:59-main--INFO -com.demoworkshop.qa.TestBase:Cliking gift Cards
+ 2020-06-14 09:14:59-main--INFO -com.demoworkshop.qa.TestBase:Verifying the Gift card page is displayed
+ 2020-06-14 09:15:00-main--INFO -com.demoworkshop.qa.TestBase:Gift card page is displayed with expected :Gift Cards is matched with Actual value : Gift Cards
+ 2020-06-14 09:15:00-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of OrderBy
+ 2020-06-14 09:15:00-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of Display
+ 2020-06-14 09:15:01-main--INFO -com.demoworkshop.qa.TestBase:Clicking Virtual gift card
+ 2020-06-14 09:15:02-main--INFO -com.demoworkshop.qa.TestBase:Adding the Quantity
+ 2020-06-14 09:15:04-main--INFO -com.demoworkshop.qa.TestBase:Clicking Add to cart first
+ 2020-06-14 09:15:04-main--INFO -com.demoworkshop.qa.TestBase:Close the error
+ 2020-06-14 09:15:05-main--INFO -com.demoworkshop.qa.TestBase:Enter the Recipient Name
+ 2020-06-14 09:15:06-main--INFO -com.demoworkshop.qa.TestBase:Enter the Recipient Email
+ 2020-06-14 09:15:08-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart second
+ 2020-06-14 09:15:08-main--INFO -com.demoworkshop.qa.TestBase:Clicking Shipping cart
+ 2020-06-14 09:15:08-main--INFO -com.demoworkshop.qa.TestBase:Clicking agree checkbox
+ 2020-06-14 09:15:09-main--INFO -com.demoworkshop.qa.TestBase:Clicking Check Out
+ 2020-06-14 09:15:10-main--INFO -com.demoworkshop.qa.TestBase:Select Billing Address
+ 2020-06-14 09:15:12-main--INFO -com.demoworkshop.qa.TestBase:Clicking Billing Continue
+ 2020-06-14 09:15:12-main--INFO -com.demoworkshop.qa.TestBase:Select Shipping Adress
+ 2020-06-14 09:15:13-main--INFO -com.demoworkshop.qa.TestBase:Clicking Shipping Continue
+ 2020-06-14 09:15:13-main--INFO -com.demoworkshop.qa.TestBase:Select Shipping Method
+ 2020-06-14 09:15:14-main--INFO -com.demoworkshop.qa.TestBase:Clicking Continue Shipping
+ 2020-06-14 09:15:15-main--INFO -com.demoworkshop.qa.TestBase:Select Payment Method
+ 2020-06-14 09:15:16-main--INFO -com.demoworkshop.qa.TestBase:clicking payment method continue
+ 2020-06-14 09:15:18-main--INFO -com.demoworkshop.qa.TestBase:Clicking Payment information continue
+ 2020-06-14 09:15:19-main--INFO -com.demoworkshop.qa.TestBase:Clicking Confrim Order
+ 2020-06-14 11:09:31-main--INFO -com.demoworkshop.qa.TestBase:Navigating to browser : http://demowebshop.tricentis.com/
+ 2020-06-14 11:09:33-main--INFO -com.demoworkshop.qa.TestBase:Click on login page
+ 2020-06-14 11:09:33-main--INFO -com.demoworkshop.qa.TestBase:Entered email
+ 2020-06-14 11:09:34-main--INFO -com.demoworkshop.qa.TestBase:Entered password
+ 2020-06-14 11:09:35-main--INFO -com.demoworkshop.qa.TestBase:Verifying the home page is displayed
+ 2020-06-14 11:09:35-main--INFO -com.demoworkshop.qa.TestBase:Home page is displayed with expected :Tricentis Demo Web Shop is matched with Actual value : Tricentis Demo Web Shop
+ 2020-06-14 11:09:35-main--INFO -com.demoworkshop.qa.TestBase:clicking Books on Demo Web shop
+ 2020-06-14 11:09:36-main--INFO -com.demoworkshop.qa.TestBase:Verifying the Books page is displayed
+ 2020-06-14 11:09:36-main--INFO -com.demoworkshop.qa.TestBase:Books page is displayed with expected :Books is matched with Actual value : Books
+ 2020-06-14 11:09:36-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-14 11:09:36-main--INFO -com.demoworkshop.qa.TestBase:Selection of value from drop down
+ 2020-06-14 11:09:37-main--INFO -com.demoworkshop.qa.TestBase:Select the picture of health book
+ 2020-06-14 11:09:38-main--INFO -com.demoworkshop.qa.TestBase:Enter the Quantity
+ 2020-06-14 11:09:39-main--INFO -com.demoworkshop.qa.TestBase:Click on Add to Cart Button
+ 2020-06-14 11:09:40-main--INFO -com.demoworkshop.qa.TestBase:Verifying the computers page is displayed
+ 2020-06-14 11:09:40-main--INFO -com.demoworkshop.qa.TestBase:computers page is displayed with expected :Computers is matched with Actual value : Computers
+ 2020-06-14 11:09:40-main--INFO -com.demoworkshop.qa.TestBase:Clicking Desktop from Demo WebShop
+ 2020-06-14 11:09:41-main--INFO -com.demoworkshop.qa.TestBase:Select the Dropdown orderBy
+ 2020-06-14 11:09:42-main--INFO -com.demoworkshop.qa.TestBase:Select the Dropdown Display
+ 2020-06-14 11:09:43-main--INFO -com.demoworkshop.qa.TestBase:Select Simple Computer
+ 2020-06-14 11:09:43-main--INFO -com.demoworkshop.qa.TestBase:Entered The Quantityr
+ 2020-06-14 11:09:45-main--INFO -com.demoworkshop.qa.TestBase:Add to Cart first
+ 2020-06-14 11:09:45-main--INFO -com.demoworkshop.qa.TestBase:Close the Error
+ 2020-06-14 11:09:46-main--INFO -com.demoworkshop.qa.TestBase:Select the Processor
+ 2020-06-14 11:09:47-main--INFO -com.demoworkshop.qa.TestBase:Add to cart second
+ 2020-06-14 11:09:47-main--INFO -com.demoworkshop.qa.TestBase:Selecting Jewelry from demo webshop
+ 2020-06-14 11:09:48-main--INFO -com.demoworkshop.qa.TestBase:Verifying the Jewelry page is displayed
+ 2020-06-14 11:09:48-main--INFO -com.demoworkshop.qa.TestBase:Jewelry page is displayed with expected :Jewelry is matched with Actual value : Jewelry
+ 2020-06-14 11:09:48-main--INFO -com.demoworkshop.qa.TestBase:Selecting Dropdown orderBy
+ 2020-06-14 11:09:49-main--INFO -com.demoworkshop.qa.TestBase:Selecting Dropdown List
+ 2020-06-14 11:09:50-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart first
+ 2020-06-14 11:09:51-main--INFO -com.demoworkshop.qa.TestBase:Entered cm for Jewelry
+ 2020-06-14 11:09:52-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart second
+ 2020-06-14 11:09:52-main--INFO -com.demoworkshop.qa.TestBase:Cliking gift Cards
+ 2020-06-14 11:09:52-main--INFO -com.demoworkshop.qa.TestBase:Verifying the Gift card page is displayed
+ 2020-06-14 11:09:53-main--INFO -com.demoworkshop.qa.TestBase:Gift card page is displayed with expected :Gift Cards is matched with Actual value : Gift Cards
+ 2020-06-14 11:09:53-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of OrderBy
+ 2020-06-14 11:09:54-main--INFO -com.demoworkshop.qa.TestBase:Select The Dropdown of Display
+ 2020-06-14 11:09:54-main--INFO -com.demoworkshop.qa.TestBase:Clicking Virtual gift card
+ 2020-06-14 11:09:55-main--INFO -com.demoworkshop.qa.TestBase:Adding the Quantity
+ 2020-06-14 11:09:57-main--INFO -com.demoworkshop.qa.TestBase:Clicking Add to cart first
+ 2020-06-14 11:09:57-main--INFO -com.demoworkshop.qa.TestBase:Close the error
+ 2020-06-14 11:09:58-main--INFO -com.demoworkshop.qa.TestBase:Enter the Recipient Name
+ 2020-06-14 11:09:59-main--INFO -com.demoworkshop.qa.TestBase:Enter the Recipient Email
+ 2020-06-14 11:10:00-main--INFO -com.demoworkshop.qa.TestBase:Add to the Cart second
+ 2020-06-14 11:10:00-main--INFO -com.demoworkshop.qa.TestBase:Clicking Shipping cart
+ 2020-06-14 11:10:01-main--INFO -com.demoworkshop.qa.TestBase:Clicking agree checkbox
+ 2020-06-14 11:10:02-main--INFO -com.demoworkshop.qa.TestBase:Clicking Check Out
+ 2020-06-14 11:10:03-main--INFO -com.demoworkshop.qa.TestBase:Select Billing Address
+ 2020-06-14 11:10:05-main--INFO -com.demoworkshop.qa.TestBase:Clicking Billing Continue
+ 2020-06-14 11:10:05-main--INFO -com.demoworkshop.qa.TestBase:Select Shipping Adress
+ 2020-06-14 11:10:05-main--INFO -com.demoworkshop.qa.TestBase:Clicking Shipping Continue
+ 2020-06-14 11:10:06-main--INFO -com.demoworkshop.qa.TestBase:Select Shipping Method
+ 2020-06-14 11:10:07-main--INFO -com.demoworkshop.qa.TestBase:Clicking Continue Shipping
+ 2020-06-14 11:10:08-main--INFO -com.demoworkshop.qa.TestBase:Select Payment Method
+ 2020-06-14 11:10:09-main--INFO -com.demoworkshop.qa.TestBase:clicking payment method continue
+ 2020-06-14 11:10:10-main--INFO -com.demoworkshop.qa.TestBase:Clicking Payment information continue
+ 2020-06-14 11:10:11-main--INFO -com.demoworkshop.qa.TestBase:Clicking Confrim Order
+ 
