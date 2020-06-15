@@ -47,6 +47,8 @@ public static final Logger log = Logger.getLogger(TestBase.class.getName());
 	public  static EventFiringWebDriver e_driver;
 	public static WebEventListener eventListener;
 	
+	//options
+	
 	ChromeOptions options;
 	
 	public TestBase(){
