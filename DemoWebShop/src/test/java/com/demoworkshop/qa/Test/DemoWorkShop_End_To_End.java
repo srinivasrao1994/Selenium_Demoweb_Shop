@@ -20,7 +20,7 @@ import com.demoworkshop.qa.pages.DemoWorkShop_Jewelry;
 import com.demoworkshop.qa.pages.DemoWorkShop_Order_Verification;
 import com.demoworkshop.qa.pages.DemoWorkShop_ShoppingCart;
 import com.demoworkshop.qa.pages.DemoWorkShop_SignIn;
-import com.relevantcodes.extentreports.LogStatus;
+
 
 public class DemoWorkShop_End_To_End extends TestBase {
 	
@@ -32,7 +32,6 @@ public class DemoWorkShop_End_To_End extends TestBase {
 	DemoWorkShop_Gift_Cards Demo_WorkShop_Gift_Cards;
 	DemoWorkShop_ShoppingCart Demo_WorkShop_Shipping_Cart;
 	DemoWorkShop_Order_Verification Demo_WorkShop_Order_Verification;
-	
 	
 	@BeforeSuite
 	public void beforeSuite() {

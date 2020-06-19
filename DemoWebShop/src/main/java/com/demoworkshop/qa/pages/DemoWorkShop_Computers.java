@@ -2,7 +2,11 @@ package com.demoworkshop.qa.pages;
 
 import org.apache.log4j.Logger;
 import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.UnexpectedAlertBehaviour;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.remote.CapabilityType;
+import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
@@ -76,22 +80,30 @@ public static final Logger log = Logger.getLogger(DemoWorkShop_Computers.class.g
 
 		log("Select Simple Computer");
 		Select_Simple_Computer.click();
+		
+		Thread.sleep(2000);
+		
 	
 		log("Entered The Quantityr");
 		Sample_Computer_Add_Quantity.clear();
 		Sample_Computer_Add_Quantity.sendKeys("5");	
+		
+		waitForElement(Sample_Computer_Add_To_Cart_First,20);
 	
 		log("Add to Cart first");
 		Sample_Computer_Add_To_Cart_First.click();
+		
+	
+		Thread.sleep(2000);
 	
 		log("Close the Error");
 		Sample_Computer_Close_Error.click();
 		
-		Thread.sleep(1000);
+		waitForElement(Select_Processor_Slow,20);
 	
 		log("Select the Processor");
 	    Select_Processor_Slow.click();
-	    Thread.sleep(1000);
+	    //Thread.sleep(1000);
 	    log("Add to cart second");
 		Sample_Computer_Add_To_Cart_Second.click();
 		

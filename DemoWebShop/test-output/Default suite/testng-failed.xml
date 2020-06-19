@@ -5,11 +5,11 @@
     <classes>
       <class name="com.demoworkshop.qa.Test.DemoWorkShop_End_To_End">
         <methods>
-          <include name="TC006_SelectGiftCard_From_GiftCardPage"/>
           <include name="beforeTest"/>
           <include name="afterMethod"/>
           <include name="beforeSuite"/>
           <include name="afterTest"/>
+          <include name="TC007_SelectShippingCart_From_DemoWebShop"/>
           <include name="beforeClass"/>
           <include name="AfterClass"/>
           <include name="beforeMethod"/>

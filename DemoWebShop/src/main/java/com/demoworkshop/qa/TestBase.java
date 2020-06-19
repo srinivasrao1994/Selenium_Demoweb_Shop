@@ -19,6 +19,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.support.events.EventFiringWebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
@@ -96,7 +97,15 @@ public static final Logger log = Logger.getLogger(TestBase.class.getName());
 				driver = e_driver;
 			}else if(browser.equals("firefox"))
 			{
-				//driver = new GeckoDriverService(); 
+				System.setProperty("webdriver.gecko.driver", "C:\\Users\\sys4\\Documents\\geckodriver.exe");
+				
+				driver =new FirefoxDriver();
+				
+				e_driver = new EventFiringWebDriver(driver);
+				
+				eventListener = new WebEventListener();
+				e_driver.register(eventListener);
+				driver = e_driver;
 				
 			}else if(browser.equals("ie")) {
 				driver = new InternetExplorerDriver();

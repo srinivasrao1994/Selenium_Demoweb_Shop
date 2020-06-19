@@ -4,7 +4,9 @@ import org.apache.log4j.Logger;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 import com.demoworkshop.qa.TestBase;
 
@@ -57,13 +59,15 @@ public static final Logger log = Logger.getLogger(DemoWorkShop_Jewelry.class.get
 		log("Selecting Dropdown List");
 		Select_Value_From_Dropdown(View_As,1);
 		
-		Thread.sleep(1000);
+		waitForElement(Jewelry_Add_To_Cart_First,20);
 		
         log("Add to the Cart first");
 		Jewelry_Add_To_Cart_First.click();
 		
 		log("Entered cm for Jewelry");
 		Length_In_Cm.sendKeys("12");
+		
+		waitForElement(Jewelry_Add_To_Cart_Second,20);
 		
 		log("Add to the Cart second");
 		Jewelry_Add_To_Cart_Second.click();

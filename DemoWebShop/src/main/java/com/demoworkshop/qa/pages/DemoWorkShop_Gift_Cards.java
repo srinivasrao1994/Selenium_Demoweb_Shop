@@ -78,6 +78,8 @@ public static final Logger log = Logger.getLogger(DemoWorkShop_Gift_Cards.class.
 	
 		log("Clicking Add to cart first");
 		Virtual_Gift_Card_Add_To_Cart_First.click();
+		
+		Thread.sleep(1000);
 	
 		log("Close the error");
 		Virtual_Gift_Close_Error.click();

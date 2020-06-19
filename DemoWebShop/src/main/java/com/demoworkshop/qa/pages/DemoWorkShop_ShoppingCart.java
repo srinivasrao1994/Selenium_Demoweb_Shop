@@ -59,10 +59,16 @@ public static final Logger log = Logger.getLogger(DemoWorkShop_ShoppingCart.clas
 	
 	public void Clicking_Shopping_Cart() throws InterruptedException {
 		
+		
+		waitForElement(Shopping_Cart,20);
+		
 		log("Clicking Shipping cart");
 		Shopping_Cart.click();
+		
+		waitForElement(Terms_Of_Services,20);
+		
 		log("Clicking agree checkbox");
-		Thread.sleep(1000);
+		
 		Terms_Of_Services.click();
 		log("Clicking Check Out");
 		Thread.sleep(1000);
