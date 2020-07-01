@@ -51,7 +51,7 @@
               <ul>
                 <li>
                   <a href="#" class="navigator-link " panel-name="test-xml-Default_suite">
-                    <span>C:\Users\sys4\AppData\Local\Temp\testng-eclipse-622891072\testng-customsuite.xml</span>
+                    <span>C:\Users\sys4\AppData\Local\Temp\testng-eclipse-991042491\testng-customsuite.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -104,7 +104,7 @@
                     <div class="method-list-content failed suite-Default_suite">
                       <span>
                         <img width="3%" src="failed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Default_suite" title="com.demoworkshop.qa.Test.DemoWorkShop_End_To_End" hash-for-method="TC007_SelectShippingCart_From_DemoWebShop">TC007_SelectShippingCart_From_DemoWebShop</a> <!-- method navigator-link -->
+                        <a href="#" class="method navigator-link" panel-name="suite-Default_suite" title="com.demoworkshop.qa.Test.DemoWorkShop_End_To_End" hash-for-method="TC002_Verify_Demowebshop_Homepage_IsDisplayed">TC002_Verify_Demowebshop_Homepage_IsDisplayed</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content failed suite-Default_suite -->
@@ -119,11 +119,6 @@
                       <span>
                         <img width="3%" src="passed.png"/>
                         <a href="#" class="method navigator-link" panel-name="suite-Default_suite" title="com.demoworkshop.qa.Test.DemoWorkShop_End_To_End" hash-for-method="TC001_LoginToDemoWebshop">TC001_LoginToDemoWebshop</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Default_suite" title="com.demoworkshop.qa.Test.DemoWorkShop_End_To_End" hash-for-method="TC002_Verify_Demowebshop_Homepage_IsDisplayed">TC002_Verify_Demowebshop_Homepage_IsDisplayed</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
@@ -144,6 +139,11 @@
                       <span>
                         <img width="3%" src="passed.png"/>
                         <a href="#" class="method navigator-link" panel-name="suite-Default_suite" title="com.demoworkshop.qa.Test.DemoWorkShop_End_To_End" hash-for-method="TC006_SelectGiftCard_From_GiftCardPage">TC006_SelectGiftCard_From_GiftCardPage</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Default_suite" title="com.demoworkshop.qa.Test.DemoWorkShop_End_To_End" hash-for-method="TC007_SelectShippingCart_From_DemoWebShop">TC007_SelectShippingCart_From_DemoWebShop</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
@@ -171,15 +171,44 @@
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="TC007_SelectShippingCart_From_DemoWebShop">
-                  </a> <!-- TC007_SelectShippingCart_From_DemoWebShop -->
-                  <span class="method-name">TC007_SelectShippingCart_From_DemoWebShop</span>
-                  <div class="stack-trace">org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator &apos;By.xpath: //input[@id=&apos;termsofservice&apos;]&apos; (tried for 20 second(s) with 500 milliseconds interval)
-	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
-	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
-	at com.demoworkshop.qa.TestBase.waitForElement(TestBase.java:244)
-	at com.demoworkshop.qa.pages.DemoWorkShop_ShoppingCart.Clicking_Shopping_Cart(DemoWorkShop_ShoppingCart.java:68)
-	at com.demoworkshop.qa.Test.DemoWorkShop_End_To_End.TC007_SelectShippingCart_From_DemoWebShop(DemoWorkShop_End_To_End.java:122)
+                  <a name="TC002_Verify_Demowebshop_Homepage_IsDisplayed">
+                  </a> <!-- TC002_Verify_Demowebshop_Homepage_IsDisplayed -->
+                  <span class="method-name">TC002_Verify_Demowebshop_Homepage_IsDisplayed</span>
+                  <div class="stack-trace">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;link text&quot;,&quot;selector&quot;:&quot;Log in&quot;}
+  (Session info: chrome=83.0.4103.106)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;DESKTOP-LMLOJ2T&apos;, ip: &apos;192.168.1.3&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_251&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\sys4\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:55653}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 019f8660c0a3be656a4f8102aac177fd
+*** Element info: {Using=link text, value=Log in}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByLinkText(RemoteWebDriver.java:380)
+	at org.openqa.selenium.By$ByLinkText.findElement(By.java:220)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+	at com.sun.proxy.$Proxy13.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:194)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy17.click(Unknown Source)
+	at com.demoworkshop.qa.pages.DemoWorkShop_SignIn.DemoWorkShopSignIn(DemoWorkShop_SignIn.java:35)
+	at com.demoworkshop.qa.Test.DemoWorkShop_End_To_End.TC002_Verify_Demowebshop_Homepage_IsDisplayed(DemoWorkShop_End_To_End.java:81)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -208,46 +237,6 @@
 	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//input[@id=&apos;termsofservice&apos;]&quot;}
-  (Session info: chrome=83.0.4103.106)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
-System info: host: &apos;DESKTOP-LMLOJ2T&apos;, ip: &apos;192.168.1.3&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_251&apos;
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\sys4\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:54382}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: ccf9717768a728205d4ef34c3842642c
-*** Element info: {Using=xpath, value=//input[@id=&apos;termsofservice&apos;]}
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
-	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-	at sun.reflect.GeneratedMethodAccessor10.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.lang.reflect.Method.invoke(Method.java:498)
-	at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
-	at com.sun.proxy.$Proxy13.findElement(Unknown Source)
-	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:194)
-	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-	at com.sun.proxy.$Proxy17.isDisplayed(Unknown Source)
-	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)
-	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
-	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)
-	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)
-	at org.openqa.selenium.support.ui.ExpectedConditions$23.apply(ExpectedConditions.java:670)
-	at org.openqa.selenium.support.ui.ExpectedConditions$23.apply(ExpectedConditions.java:666)
-	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
-	... 31 more
 
 </div> <!-- stack-trace -->
                 </div> <!-- method-content -->
@@ -265,13 +254,6 @@ Session ID: ccf9717768a728205d4ef34c3842642c
                   <a name="TC001_LoginToDemoWebshop">
                   </a> <!-- TC001_LoginToDemoWebshop -->
                   <span class="method-name">TC001_LoginToDemoWebshop</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="TC002_Verify_Demowebshop_Homepage_IsDisplayed">
-                  </a> <!-- TC002_Verify_Demowebshop_Homepage_IsDisplayed -->
-                  <span class="method-name">TC002_Verify_Demowebshop_Homepage_IsDisplayed</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
               <div class="method">
@@ -304,6 +286,13 @@ Session ID: ccf9717768a728205d4ef34c3842642c
               </div> <!-- method -->
               <div class="method">
                 <div class="method-content">
+                  <a name="TC007_SelectShippingCart_From_DemoWebShop">
+                  </a> <!-- TC007_SelectShippingCart_From_DemoWebShop -->
+                  <span class="method-name">TC007_SelectShippingCart_From_DemoWebShop</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
                   <a name="TC008_Select_Orders_From_DemoWebShop">
                   </a> <!-- TC008_Select_Orders_From_DemoWebShop -->
                   <span class="method-name">TC008_Select_Orders_From_DemoWebShop</span>
@@ -314,7 +303,7 @@ Session ID: ccf9717768a728205d4ef34c3842642c
         </div> <!-- panel Default_suite -->
         <div panel-name="test-xml-Default_suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">C:\Users\sys4\AppData\Local\Temp\testng-eclipse-622891072\testng-customsuite.xml</span>
+            <span class="header-content">C:\Users\sys4\AppData\Local\Temp\testng-eclipse-991042491\testng-customsuite.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
@@ -365,42 +354,42 @@ data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
 data.addRows(8);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'TC007_SelectShippingCart_From_DemoWebShop')
+data.setCell(0, 1, 'TC002_Verify_Demowebshop_Homepage_IsDisplayed')
 data.setCell(0, 2, 'com.demoworkshop.qa.Test.DemoWorkShop_End_To_End')
-data.setCell(0, 3, 41142);
+data.setCell(0, 3, 20611);
 data.setCell(1, 0, 1)
-data.setCell(1, 1, 'TC006_SelectGiftCard_From_GiftCardPage')
+data.setCell(1, 1, 'TC007_SelectShippingCart_From_DemoWebShop')
 data.setCell(1, 2, 'com.demoworkshop.qa.Test.DemoWorkShop_End_To_End')
-data.setCell(1, 3, 9183);
+data.setCell(1, 3, 10898);
 data.setCell(2, 0, 2)
-data.setCell(2, 1, 'TC004_SelectDesktops_From_ComputersPage')
+data.setCell(2, 1, 'TC006_SelectGiftCard_From_GiftCardPage')
 data.setCell(2, 2, 'com.demoworkshop.qa.Test.DemoWorkShop_End_To_End')
-data.setCell(2, 3, 8246);
+data.setCell(2, 3, 8648);
 data.setCell(3, 0, 3)
-data.setCell(3, 1, 'TC005_SelectJewelry_From_JewelryPage')
+data.setCell(3, 1, 'TC004_SelectDesktops_From_ComputersPage')
 data.setCell(3, 2, 'com.demoworkshop.qa.Test.DemoWorkShop_End_To_End')
-data.setCell(3, 3, 4645);
+data.setCell(3, 3, 8090);
 data.setCell(4, 0, 4)
-data.setCell(4, 1, 'TC003_SelectBooks_From_BooksPage')
+data.setCell(4, 1, 'TC005_SelectJewelry_From_JewelryPage')
 data.setCell(4, 2, 'com.demoworkshop.qa.Test.DemoWorkShop_End_To_End')
-data.setCell(4, 3, 4059);
+data.setCell(4, 3, 4070);
 data.setCell(5, 0, 5)
-data.setCell(5, 1, 'TC001_LoginToDemoWebshop')
+data.setCell(5, 1, 'TC003_SelectBooks_From_BooksPage')
 data.setCell(5, 2, 'com.demoworkshop.qa.Test.DemoWorkShop_End_To_End')
-data.setCell(5, 3, 1232);
+data.setCell(5, 3, 3942);
 data.setCell(6, 0, 6)
-data.setCell(6, 1, 'TC002_Verify_Demowebshop_Homepage_IsDisplayed')
+data.setCell(6, 1, 'TC001_LoginToDemoWebshop')
 data.setCell(6, 2, 'com.demoworkshop.qa.Test.DemoWorkShop_End_To_End')
-data.setCell(6, 3, 230);
+data.setCell(6, 3, 1085);
 data.setCell(7, 0, 7)
 data.setCell(7, 1, 'TC008_Select_Orders_From_DemoWebShop')
 data.setCell(7, 2, 'com.demoworkshop.qa.Test.DemoWorkShop_End_To_End')
-data.setCell(7, 3, 139);
+data.setCell(7, 3, 143);
 window.suiteTableData['Default_suite']= { tableData: data, tableDiv: 'times-div-Default_suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 1 minutes</span>
+              <span class="suite-total-time">Total running time: 57 seconds</span>
               <div id="times-div-Default_suite">
               </div> <!-- times-div-Default_suite -->
             </div> <!-- times-div -->
@@ -417,42 +406,6 @@ return data;
                 <span class="reporter-method-output">Click on login page</span>
                 <span class="reporter-method-output">Entered email</span>
                 <span class="reporter-method-output">Entered password</span>
-              </div> <!-- reporter-method-output-div -->
-            </div> <!-- reporter-method-div -->
-            <div class="reporter-method-div">
-              <span class="reporter-method-name">TC005_SelectJewelry_From_JewelryPage</span>
-              <div class="reporter-method-output-div">
-                <span class="reporter-method-output">Selecting Jewelry from demo webshop</span>
-                <span class="reporter-method-output">Verifying the Jewelry page is displayed</span>
-                <span class="reporter-method-output">Jewelry page is displayed with expected :Jewelry is matched with Actual value : Jewelry</span>
-                <span class="reporter-method-output">Selecting Dropdown orderBy</span>
-                <span class="reporter-method-output">Selecting Dropdown List</span>
-                <span class="reporter-method-output">Add to the Cart first</span>
-                <span class="reporter-method-output">Entered cm for Jewelry</span>
-                <span class="reporter-method-output">Add to the Cart second</span>
-              </div> <!-- reporter-method-output-div -->
-            </div> <!-- reporter-method-div -->
-            <div class="reporter-method-div">
-              <span class="reporter-method-name">TC004_SelectDesktops_From_ComputersPage</span>
-              <div class="reporter-method-output-div">
-                <span class="reporter-method-output">Verifying the computers page is displayed</span>
-                <span class="reporter-method-output">computers page is displayed with expected :Computers is matched with Actual value : Computers</span>
-                <span class="reporter-method-output">Clicking Desktop from Demo WebShop</span>
-                <span class="reporter-method-output">Select the Dropdown orderBy</span>
-                <span class="reporter-method-output">Select the Dropdown Display</span>
-                <span class="reporter-method-output">Select Simple Computer</span>
-                <span class="reporter-method-output">Entered The Quantityr</span>
-                <span class="reporter-method-output">Add to Cart first</span>
-                <span class="reporter-method-output">Close the Error</span>
-                <span class="reporter-method-output">Select the Processor</span>
-                <span class="reporter-method-output">Add to cart second</span>
-              </div> <!-- reporter-method-output-div -->
-            </div> <!-- reporter-method-div -->
-            <div class="reporter-method-div">
-              <span class="reporter-method-name">TC002_Verify_Demowebshop_Homepage_IsDisplayed</span>
-              <div class="reporter-method-output-div">
-                <span class="reporter-method-output">Verifying the home page is displayed</span>
-                <span class="reporter-method-output">Home page is displayed with expected :Tricentis Demo Web Shop is matched with Actual value : Tricentis Demo Web Shop</span>
               </div> <!-- reporter-method-output-div -->
             </div> <!-- reporter-method-div -->
             <div class="reporter-method-div">
@@ -473,6 +426,19 @@ return data;
               </div> <!-- reporter-method-output-div -->
             </div> <!-- reporter-method-div -->
             <div class="reporter-method-div">
+              <span class="reporter-method-name">TC005_SelectJewelry_From_JewelryPage</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Selecting Jewelry from demo webshop</span>
+                <span class="reporter-method-output">Verifying the Jewelry page is displayed</span>
+                <span class="reporter-method-output">Jewelry page is displayed with expected :Jewelry is matched with Actual value : Jewelry</span>
+                <span class="reporter-method-output">Selecting Dropdown orderBy</span>
+                <span class="reporter-method-output">Selecting Dropdown List</span>
+                <span class="reporter-method-output">Add to the Cart first</span>
+                <span class="reporter-method-output">Entered cm for Jewelry</span>
+                <span class="reporter-method-output">Add to the Cart second</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
               <span class="reporter-method-name">TC003_SelectBooks_From_BooksPage</span>
               <div class="reporter-method-output-div">
                 <span class="reporter-method-output">clicking Books on Demo Web shop</span>
@@ -486,9 +452,43 @@ return data;
               </div> <!-- reporter-method-output-div -->
             </div> <!-- reporter-method-div -->
             <div class="reporter-method-div">
+              <span class="reporter-method-name">TC004_SelectDesktops_From_ComputersPage</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Verifying the computers page is displayed</span>
+                <span class="reporter-method-output">computers page is displayed with expected :Computers is matched with Actual value : Computers</span>
+                <span class="reporter-method-output">Clicking Desktop from Demo WebShop</span>
+                <span class="reporter-method-output">Select the Dropdown orderBy</span>
+                <span class="reporter-method-output">Select the Dropdown Display</span>
+                <span class="reporter-method-output">Select Simple Computer</span>
+                <span class="reporter-method-output">Entered The Quantityr</span>
+                <span class="reporter-method-output">Add to Cart first</span>
+                <span class="reporter-method-output">Close the Error</span>
+                <span class="reporter-method-output">Select the Processor</span>
+                <span class="reporter-method-output">Add to cart second</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
               <span class="reporter-method-name">TC007_SelectShippingCart_From_DemoWebShop</span>
               <div class="reporter-method-output-div">
                 <span class="reporter-method-output">Clicking Shipping cart</span>
+                <span class="reporter-method-output">Clicking agree checkbox</span>
+                <span class="reporter-method-output">Clicking Check Out</span>
+                <span class="reporter-method-output">Select Billing Address</span>
+                <span class="reporter-method-output">Clicking Billing Continue</span>
+                <span class="reporter-method-output">Select Shipping Adress</span>
+                <span class="reporter-method-output">Clicking Shipping Continue</span>
+                <span class="reporter-method-output">Select Shipping Method</span>
+                <span class="reporter-method-output">Clicking Continue Shipping</span>
+                <span class="reporter-method-output">Select Payment Method</span>
+                <span class="reporter-method-output">clicking payment method continue</span>
+                <span class="reporter-method-output">Clicking Payment information continue</span>
+                <span class="reporter-method-output">Clicking Confrim Order</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">TC002_Verify_Demowebshop_Homepage_IsDisplayed</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Click on login page</span>
               </div> <!-- reporter-method-output-div -->
             </div> <!-- reporter-method-div -->
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -513,153 +513,153 @@ return data;
               </div> <!-- configuration-suite before -->
               <div class="configuration-test before">
                 <span class="method-name">beforeTest</span>
-                <span class="method-start">7183 ms</span>
+                <span class="method-start">6788 ms</span>
               </div> <!-- configuration-test before -->
               <div class="configuration-class before">
                 <span class="method-name">beforeClass</span>
-                <span class="method-start">7207 ms</span>
+                <span class="method-start">6850 ms</span>
               </div> <!-- configuration-class before -->
               <div class="configuration-method before">
                 <span class="method-name">beforeMethod</span>
-                <span class="method-start">7225 ms</span>
+                <span class="method-start">6950 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">TC001_LoginToDemoWebshop</span>
-                <span class="method-start">7227 ms</span>
+                <span class="method-start">6954 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">afterMethod</span>
-                <span class="method-start">8469 ms</span>
+                <span class="method-start">8056 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method after">
                 <span class="method-name">getResult([TestResult name=TC001_LoginToDemoWebshop status=SUCCESS method=DemoWorkShop_End_To_End.TC001_LoginT...)</span>
-                <span class="method-start">8470 ms</span>
+                <span class="method-start">8058 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method before">
                 <span class="method-name">beforeMethod</span>
-                <span class="method-start">9123 ms</span>
-              </div> <!-- configuration-method before -->
-              <div class="test-method">
-                <span class="method-name">TC002_Verify_Demowebshop_Homepage_IsDisplayed</span>
-                <span class="method-start">9124 ms</span>
-              </div> <!-- test-method -->
-              <div class="configuration-method after">
-                <span class="method-name">afterMethod</span>
-                <span class="method-start">9357 ms</span>
-              </div> <!-- configuration-method after -->
-              <div class="configuration-method after">
-                <span class="method-name">getResult([TestResult name=TC002_Verify_Demowebshop_Homepage_IsDisplayed status=SUCCESS method=DemoWorkShop_En...)</span>
-                <span class="method-start">9358 ms</span>
-              </div> <!-- configuration-method after -->
-              <div class="configuration-method before">
-                <span class="method-name">beforeMethod</span>
-                <span class="method-start">9435 ms</span>
-              </div> <!-- configuration-method before -->
-              <div class="test-method">
-                <span class="method-name">TC003_SelectBooks_From_BooksPage</span>
-                <span class="method-start">9436 ms</span>
-              </div> <!-- test-method -->
-              <div class="configuration-method after">
-                <span class="method-name">afterMethod</span>
-                <span class="method-start">13498 ms</span>
-              </div> <!-- configuration-method after -->
-              <div class="configuration-method after">
-                <span class="method-name">getResult([TestResult name=TC003_SelectBooks_From_BooksPage status=SUCCESS method=DemoWorkShop_End_To_End.TC00...)</span>
-                <span class="method-start">13499 ms</span>
-              </div> <!-- configuration-method after -->
-              <div class="configuration-method before">
-                <span class="method-name">beforeMethod</span>
-                <span class="method-start">13547 ms</span>
-              </div> <!-- configuration-method before -->
-              <div class="test-method">
-                <span class="method-name">TC004_SelectDesktops_From_ComputersPage</span>
-                <span class="method-start">13548 ms</span>
-              </div> <!-- test-method -->
-              <div class="configuration-method after">
-                <span class="method-name">afterMethod</span>
-                <span class="method-start">21795 ms</span>
-              </div> <!-- configuration-method after -->
-              <div class="configuration-method after">
-                <span class="method-name">getResult([TestResult name=TC004_SelectDesktops_From_ComputersPage status=SUCCESS method=DemoWorkShop_End_To_E...)</span>
-                <span class="method-start">21795 ms</span>
-              </div> <!-- configuration-method after -->
-              <div class="configuration-method before">
-                <span class="method-name">beforeMethod</span>
-                <span class="method-start">21875 ms</span>
-              </div> <!-- configuration-method before -->
-              <div class="test-method">
-                <span class="method-name">TC005_SelectJewelry_From_JewelryPage</span>
-                <span class="method-start">21876 ms</span>
-              </div> <!-- test-method -->
-              <div class="configuration-method after">
-                <span class="method-name">afterMethod</span>
-                <span class="method-start">26532 ms</span>
-              </div> <!-- configuration-method after -->
-              <div class="configuration-method after">
-                <span class="method-name">getResult([TestResult name=TC005_SelectJewelry_From_JewelryPage status=SUCCESS method=DemoWorkShop_End_To_End....)</span>
-                <span class="method-start">26532 ms</span>
-              </div> <!-- configuration-method after -->
-              <div class="configuration-method before">
-                <span class="method-name">beforeMethod</span>
-                <span class="method-start">26594 ms</span>
-              </div> <!-- configuration-method before -->
-              <div class="test-method">
-                <span class="method-name">TC006_SelectGiftCard_From_GiftCardPage</span>
-                <span class="method-start">26594 ms</span>
-              </div> <!-- test-method -->
-              <div class="configuration-method after">
-                <span class="method-name">afterMethod</span>
-                <span class="method-start">35779 ms</span>
-              </div> <!-- configuration-method after -->
-              <div class="configuration-method after">
-                <span class="method-name">getResult([TestResult name=TC006_SelectGiftCard_From_GiftCardPage status=SUCCESS method=DemoWorkShop_End_To_En...)</span>
-                <span class="method-start">35780 ms</span>
-              </div> <!-- configuration-method after -->
-              <div class="configuration-method before">
-                <span class="method-name">beforeMethod</span>
-                <span class="method-start">35837 ms</span>
+                <span class="method-start">8729 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <img src="failed.png">
                 </img>
-                <span class="method-name">TC007_SelectShippingCart_From_DemoWebShop</span>
-                <span class="method-start">35837 ms</span>
+                <span class="method-name">TC002_Verify_Demowebshop_Homepage_IsDisplayed</span>
+                <span class="method-start">8730 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">afterMethod</span>
-                <span class="method-start">76983 ms</span>
+                <span class="method-start">29347 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method after">
-                <span class="method-name">getResult([TestResult name=TC007_SelectShippingCart_From_DemoWebShop status=FAILURE method=DemoWorkShop_End_To...)</span>
-                <span class="method-start">76984 ms</span>
+                <span class="method-name">getResult([TestResult name=TC002_Verify_Demowebshop_Homepage_IsDisplayed status=FAILURE method=DemoWorkShop_En...)</span>
+                <span class="method-start">29348 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method before">
                 <span class="method-name">beforeMethod</span>
-                <span class="method-start">77357 ms</span>
+                <span class="method-start">29814 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
-                <span class="method-name">TC008_Select_Orders_From_DemoWebShop</span>
-                <span class="method-start">77357 ms</span>
+                <span class="method-name">TC003_SelectBooks_From_BooksPage</span>
+                <span class="method-start">29815 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">afterMethod</span>
-                <span class="method-start">77500 ms</span>
+                <span class="method-start">33761 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=TC003_SelectBooks_From_BooksPage status=SUCCESS method=DemoWorkShop_End_To_End.TC00...)</span>
+                <span class="method-start">33761 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">beforeMethod</span>
+                <span class="method-start">33822 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">TC004_SelectDesktops_From_ComputersPage</span>
+                <span class="method-start">33822 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">afterMethod</span>
+                <span class="method-start">41914 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=TC004_SelectDesktops_From_ComputersPage status=SUCCESS method=DemoWorkShop_End_To_E...)</span>
+                <span class="method-start">41914 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">beforeMethod</span>
+                <span class="method-start">41978 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">TC005_SelectJewelry_From_JewelryPage</span>
+                <span class="method-start">41979 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">afterMethod</span>
+                <span class="method-start">46051 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=TC005_SelectJewelry_From_JewelryPage status=SUCCESS method=DemoWorkShop_End_To_End....)</span>
+                <span class="method-start">46052 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">beforeMethod</span>
+                <span class="method-start">46099 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">TC006_SelectGiftCard_From_GiftCardPage</span>
+                <span class="method-start">46099 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">afterMethod</span>
+                <span class="method-start">54750 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=TC006_SelectGiftCard_From_GiftCardPage status=SUCCESS method=DemoWorkShop_End_To_En...)</span>
+                <span class="method-start">54750 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">beforeMethod</span>
+                <span class="method-start">54810 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">TC007_SelectShippingCart_From_DemoWebShop</span>
+                <span class="method-start">54811 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">afterMethod</span>
+                <span class="method-start">65710 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=TC007_SelectShippingCart_From_DemoWebShop status=SUCCESS method=DemoWorkShop_End_To...)</span>
+                <span class="method-start">65711 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">beforeMethod</span>
+                <span class="method-start">65760 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">TC008_Select_Orders_From_DemoWebShop</span>
+                <span class="method-start">65761 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">afterMethod</span>
+                <span class="method-start">65906 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method after">
                 <span class="method-name">getResult([TestResult name=TC008_Select_Orders_From_DemoWebShop status=SUCCESS method=DemoWorkShop_End_To_End....)</span>
-                <span class="method-start">77501 ms</span>
+                <span class="method-start">65907 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-class after">
                 <span class="method-name">AfterClass</span>
-                <span class="method-start">77555 ms</span>
+                <span class="method-start">65980 ms</span>
               </div> <!-- configuration-class after -->
               <div class="configuration-test after">
                 <span class="method-name">afterTest</span>
-                <span class="method-start">77613 ms</span>
+                <span class="method-start">66035 ms</span>
               </div> <!-- configuration-test after -->
               <div class="configuration-suite after">
                 <span class="method-name">afterSuite</span>
-                <span class="method-start">77685 ms</span>
+                <span class="method-start">66124 ms</span>
               </div> <!-- configuration-suite after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

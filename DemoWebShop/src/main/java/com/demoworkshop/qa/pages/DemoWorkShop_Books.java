@@ -10,8 +10,6 @@ import com.demoworkshop.qa.TestBase;
 public class DemoWorkShop_Books extends TestBase{
 	
 	public static final Logger log = Logger.getLogger(DemoWorkShop_Books.class.getName());
-	
-	
 
 	@FindBy(linkText="Books")
 	WebElement Books;

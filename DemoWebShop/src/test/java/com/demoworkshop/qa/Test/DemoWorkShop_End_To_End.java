@@ -78,7 +78,7 @@ public class DemoWorkShop_End_To_End extends TestBase {
   
   @Test(priority=2, testName="TC002_Verify_Demowebshop_Homepage_IsDisplayed")
   public void TC002_Verify_Demowebshop_Homepage_IsDisplayed() {
-	  //DemoWorkShop_SignIn.DemoWorkShopSignIn();
+	  //DemoWorkShop_SignIn.DemoWorkShopSignIn(); 
 	  extentTest = extentRep.startTest("TC002_Verify_Demowebshop_Homepage_IsDisplayed"); 
 	  DemoWorkShop_HomePage.DemoWorkShop_Homepage_IsDisplayed("Tricentis Demo Web Shop");
 	 

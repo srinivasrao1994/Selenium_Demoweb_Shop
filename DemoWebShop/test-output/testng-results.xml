@@ -11,10 +11,10 @@
       <![CDATA[Entered password]]>
     </line>
     <line>
-      <![CDATA[Verifying the home page is displayed]]>
+      <![CDATA[Click on login page]]>
     </line>
     <line>
-      <![CDATA[Home page is displayed with expected :Tricentis Demo Web Shop is matched with Actual value : Tricentis Demo Web Shop]]>
+      <![CDATA[<a href='C:\Users\sys4\Downloads\Selenium_Demoweb_Shop\DemoWebShopTC002_Verify_Demowebshop_Homepage_IsDisplayed20_06_2020_12_45_17.jpeg'> <img src='C:\Users\sys4\Downloads\Selenium_Demoweb_Shop\DemoWebShopTC002_Verify_Demowebshop_Homepage_IsDisplayed20_06_2020_12_45_17.jpeg' height='100' width='100'/></a>]]>
     </line>
     <line>
       <![CDATA[clicking Books on Demo Web shop]]>
@@ -137,31 +137,64 @@
       <![CDATA[Clicking Shipping cart]]>
     </line>
     <line>
-      <![CDATA[<a href='C:\Users\sys4\Downloads\Selenium_Demoweb_Shop\DemoWebShopTC007_SelectShippingCart_From_DemoWebShop18_06_2020_10_13_53.jpeg'> <img src='C:\Users\sys4\Downloads\Selenium_Demoweb_Shop\DemoWebShopTC007_SelectShippingCart_From_DemoWebShop18_06_2020_10_13_53.jpeg' height='100' width='100'/></a>]]>
+      <![CDATA[Clicking agree checkbox]]>
+    </line>
+    <line>
+      <![CDATA[Clicking Check Out]]>
+    </line>
+    <line>
+      <![CDATA[Select Billing Address]]>
+    </line>
+    <line>
+      <![CDATA[Clicking Billing Continue]]>
+    </line>
+    <line>
+      <![CDATA[Select Shipping Adress]]>
+    </line>
+    <line>
+      <![CDATA[Clicking Shipping Continue]]>
+    </line>
+    <line>
+      <![CDATA[Select Shipping Method]]>
+    </line>
+    <line>
+      <![CDATA[Clicking Continue Shipping]]>
+    </line>
+    <line>
+      <![CDATA[Select Payment Method]]>
+    </line>
+    <line>
+      <![CDATA[clicking payment method continue]]>
+    </line>
+    <line>
+      <![CDATA[Clicking Payment information continue]]>
+    </line>
+    <line>
+      <![CDATA[Clicking Confrim Order]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="70434" started-at="2020-06-18T22:12:43 IST" finished-at="2020-06-18T22:13:53 IST">
+  <suite name="Default suite" duration-ms="59253" started-at="2020-06-20T12:44:54 IST" finished-at="2020-06-20T12:45:53 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="70434" started-at="2020-06-18T22:12:43 IST" finished-at="2020-06-18T22:13:53 IST">
+    <test name="Default test" duration-ms="59253" started-at="2020-06-20T12:44:54 IST" finished-at="2020-06-20T12:45:53 IST">
       <class name="com.demoworkshop.qa.Test.DemoWorkShop_End_To_End">
-        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="beforeSuite" is-config="true" duration-ms="7178" started-at="2020-06-18T22:12:36 IST" finished-at="2020-06-18T22:12:43 IST">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="beforeSuite" is-config="true" duration-ms="6779" started-at="2020-06-20T12:44:47 IST" finished-at="2020-06-20T12:44:54 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="beforeTest" is-config="true" duration-ms="1" started-at="2020-06-18T22:12:43 IST" finished-at="2020-06-18T22:12:43 IST">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="beforeTest" is-config="true" duration-ms="0" started-at="2020-06-20T12:44:54 IST" finished-at="2020-06-20T12:44:54 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="beforeClass" is-config="true" duration-ms="5" started-at="2020-06-18T22:12:43 IST" finished-at="2020-06-18T22:12:43 IST">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="beforeClass" is-config="true" duration-ms="13" started-at="2020-06-20T12:44:54 IST" finished-at="2020-06-20T12:44:54 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-06-18T22:12:43 IST" finished-at="2020-06-18T22:12:43 IST">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="beforeMethod" is-config="true" duration-ms="2" started-at="2020-06-20T12:44:54 IST" finished-at="2020-06-20T12:44:54 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC001_LoginToDemoWebshop()[pri:1, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="TC001_LoginToDemoWebshop" duration-ms="1232" started-at="2020-06-18T22:12:43 IST" finished-at="2020-06-18T22:12:44 IST">
+        <test-method status="PASS" signature="TC001_LoginToDemoWebshop()[pri:1, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="TC001_LoginToDemoWebshop" duration-ms="1085" started-at="2020-06-20T12:44:54 IST" finished-at="2020-06-20T12:44:55 IST">
           <reporter-output>
             <line>
               <![CDATA[Click on login page]]>
@@ -174,11 +207,11 @@
             </line>
           </reporter-output>
         </test-method> <!-- TC001_LoginToDemoWebshop -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-06-18T22:12:44 IST" finished-at="2020-06-18T22:12:44 IST">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="afterMethod" is-config="true" duration-ms="2" started-at="2020-06-20T12:44:56 IST" finished-at="2020-06-20T12:44:56 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="getResult" is-config="true" duration-ms="648" started-at="2020-06-18T22:12:44 IST" finished-at="2020-06-18T22:12:45 IST">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="getResult" is-config="true" duration-ms="667" started-at="2020-06-20T12:44:56 IST" finished-at="2020-06-20T12:44:56 IST">
           <params>
             <param index="0">
               <value>
@@ -189,40 +222,119 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-06-18T22:12:45 IST" finished-at="2020-06-18T22:12:45 IST">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-06-20T12:44:56 IST" finished-at="2020-06-20T12:44:56 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC002_Verify_Demowebshop_Homepage_IsDisplayed()[pri:2, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="TC002_Verify_Demowebshop_Homepage_IsDisplayed" duration-ms="230" started-at="2020-06-18T22:12:45 IST" finished-at="2020-06-18T22:12:45 IST">
+        <test-method status="FAIL" signature="TC002_Verify_Demowebshop_Homepage_IsDisplayed()[pri:2, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="TC002_Verify_Demowebshop_Homepage_IsDisplayed" duration-ms="20611" started-at="2020-06-20T12:44:56 IST" finished-at="2020-06-20T12:45:17 IST">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"link text","selector":"Log in"}
+  (Session info: chrome=83.0.4103.106)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LMLOJ2T', ip: '192.168.1.3', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\sys4\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:55653}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 019f8660c0a3be656a4f8102aac177fd
+*** Element info: {Using=link text, value=Log in}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"Log in"}
+  (Session info: chrome=83.0.4103.106)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LMLOJ2T', ip: '192.168.1.3', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\sys4\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:55653}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 019f8660c0a3be656a4f8102aac177fd
+*** Element info: {Using=link text, value=Log in}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByLinkText(RemoteWebDriver.java:380)
+at org.openqa.selenium.By$ByLinkText.findElement(By.java:220)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+at com.sun.proxy.$Proxy13.findElement(Unknown Source)
+at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:194)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at com.sun.proxy.$Proxy17.click(Unknown Source)
+at com.demoworkshop.qa.pages.DemoWorkShop_SignIn.DemoWorkShopSignIn(DemoWorkShop_SignIn.java:35)
+at com.demoworkshop.qa.Test.DemoWorkShop_End_To_End.TC002_Verify_Demowebshop_Homepage_IsDisplayed(DemoWorkShop_End_To_End.java:81)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:821)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(ArrayList.java:1257)
+at org.testng.TestRunner.privateRun(TestRunner.java:767)
+at org.testng.TestRunner.run(TestRunner.java:588)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1214)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1136)
+at org.testng.TestNG.runSuites(TestNG.java:1066)
+at org.testng.TestNG.run(TestNG.java:1034)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
           <reporter-output>
             <line>
-              <![CDATA[Verifying the home page is displayed]]>
-            </line>
-            <line>
-              <![CDATA[Home page is displayed with expected :Tricentis Demo Web Shop is matched with Actual value : Tricentis Demo Web Shop]]>
+              <![CDATA[Click on login page]]>
             </line>
           </reporter-output>
         </test-method> <!-- TC002_Verify_Demowebshop_Homepage_IsDisplayed -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-06-18T22:12:45 IST" finished-at="2020-06-18T22:12:45 IST">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-06-20T12:45:17 IST" finished-at="2020-06-20T12:45:17 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="getResult" is-config="true" duration-ms="76" started-at="2020-06-18T22:12:45 IST" finished-at="2020-06-18T22:12:45 IST">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="getResult" is-config="true" duration-ms="465" started-at="2020-06-20T12:45:17 IST" finished-at="2020-06-20T12:45:17 IST">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=TC002_Verify_Demowebshop_Homepage_IsDisplayed status=SUCCESS method=DemoWorkShop_End_To_End.TC002_Verify_Demowebshop_Homepage_IsDisplayed()[pri:2, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a] output=Verifying the home page is displayed]]]>
+                <![CDATA[[TestResult name=TC002_Verify_Demowebshop_Homepage_IsDisplayed status=FAILURE method=DemoWorkShop_End_To_End.TC002_Verify_Demowebshop_Homepage_IsDisplayed()[pri:2, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a] output=Click on login page]]]>
               </value>
             </param>
           </params>
           <reporter-output>
+            <line>
+              <![CDATA[<a href='C:\Users\sys4\Downloads\Selenium_Demoweb_Shop\DemoWebShopTC002_Verify_Demowebshop_Homepage_IsDisplayed20_06_2020_12_45_17.jpeg'> <img src='C:\Users\sys4\Downloads\Selenium_Demoweb_Shop\DemoWebShopTC002_Verify_Demowebshop_Homepage_IsDisplayed20_06_2020_12_45_17.jpeg' height='100' width='100'/></a>]]>
+            </line>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-06-18T22:12:45 IST" finished-at="2020-06-18T22:12:45 IST">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-06-20T12:45:17 IST" finished-at="2020-06-20T12:45:17 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC003_SelectBooks_From_BooksPage()[pri:3, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="TC003_SelectBooks_From_BooksPage" duration-ms="4059" started-at="2020-06-18T22:12:45 IST" finished-at="2020-06-18T22:12:49 IST">
+        <test-method status="PASS" signature="TC003_SelectBooks_From_BooksPage()[pri:3, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="TC003_SelectBooks_From_BooksPage" duration-ms="3942" started-at="2020-06-20T12:45:17 IST" finished-at="2020-06-20T12:45:21 IST">
           <reporter-output>
             <line>
               <![CDATA[clicking Books on Demo Web shop]]>
@@ -250,11 +362,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- TC003_SelectBooks_From_BooksPage -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-06-18T22:12:49 IST" finished-at="2020-06-18T22:12:49 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="getResult" is-config="true" duration-ms="47" started-at="2020-06-18T22:12:49 IST" finished-at="2020-06-18T22:12:49 IST">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="getResult" is-config="true" duration-ms="59" started-at="2020-06-20T12:45:21 IST" finished-at="2020-06-20T12:45:21 IST">
           <params>
             <param index="0">
               <value>
@@ -265,11 +373,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-06-18T22:12:49 IST" finished-at="2020-06-18T22:12:49 IST">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-06-20T12:45:21 IST" finished-at="2020-06-20T12:45:21 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC004_SelectDesktops_From_ComputersPage()[pri:4, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="TC004_SelectDesktops_From_ComputersPage" duration-ms="8246" started-at="2020-06-18T22:12:49 IST" finished-at="2020-06-18T22:12:57 IST">
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="TC004_SelectDesktops_From_ComputersPage()[pri:4, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="TC004_SelectDesktops_From_ComputersPage" duration-ms="8090" started-at="2020-06-20T12:45:21 IST" finished-at="2020-06-20T12:45:29 IST">
           <reporter-output>
             <line>
               <![CDATA[Verifying the computers page is displayed]]>
@@ -306,7 +414,15 @@
             </line>
           </reporter-output>
         </test-method> <!-- TC004_SelectDesktops_From_ComputersPage -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="getResult" is-config="true" duration-ms="79" started-at="2020-06-18T22:12:57 IST" finished-at="2020-06-18T22:12:57 IST">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-06-20T12:45:21 IST" finished-at="2020-06-20T12:45:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-06-20T12:45:29 IST" finished-at="2020-06-20T12:45:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="getResult" is-config="true" duration-ms="64" started-at="2020-06-20T12:45:29 IST" finished-at="2020-06-20T12:45:29 IST">
           <params>
             <param index="0">
               <value>
@@ -317,15 +433,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-06-18T22:12:57 IST" finished-at="2020-06-18T22:12:57 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-06-18T22:12:57 IST" finished-at="2020-06-18T22:12:57 IST">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-06-20T12:45:29 IST" finished-at="2020-06-20T12:45:29 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC005_SelectJewelry_From_JewelryPage()[pri:5, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="TC005_SelectJewelry_From_JewelryPage" duration-ms="4645" started-at="2020-06-18T22:12:57 IST" finished-at="2020-06-18T22:13:02 IST">
+        <test-method status="PASS" signature="TC005_SelectJewelry_From_JewelryPage()[pri:5, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="TC005_SelectJewelry_From_JewelryPage" duration-ms="4070" started-at="2020-06-20T12:45:29 IST" finished-at="2020-06-20T12:45:34 IST">
           <reporter-output>
             <line>
               <![CDATA[Selecting Jewelry from demo webshop]]>
@@ -353,11 +465,11 @@
             </line>
           </reporter-output>
         </test-method> <!-- TC005_SelectJewelry_From_JewelryPage -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-06-18T22:13:02 IST" finished-at="2020-06-18T22:13:02 IST">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-06-20T12:45:34 IST" finished-at="2020-06-20T12:45:34 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="getResult" is-config="true" duration-ms="61" started-at="2020-06-18T22:13:02 IST" finished-at="2020-06-18T22:13:02 IST">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="getResult" is-config="true" duration-ms="46" started-at="2020-06-20T12:45:34 IST" finished-at="2020-06-20T12:45:34 IST">
           <params>
             <param index="0">
               <value>
@@ -368,11 +480,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-06-18T22:13:02 IST" finished-at="2020-06-18T22:13:02 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC006_SelectGiftCard_From_GiftCardPage()[pri:6, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="TC006_SelectGiftCard_From_GiftCardPage" duration-ms="9183" started-at="2020-06-18T22:13:02 IST" finished-at="2020-06-18T22:13:11 IST">
+        <test-method status="PASS" signature="TC006_SelectGiftCard_From_GiftCardPage()[pri:6, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="TC006_SelectGiftCard_From_GiftCardPage" duration-ms="8648" started-at="2020-06-20T12:45:34 IST" finished-at="2020-06-20T12:45:42 IST">
           <reporter-output>
             <line>
               <![CDATA[Cliking gift Cards]]>
@@ -412,11 +520,11 @@
             </line>
           </reporter-output>
         </test-method> <!-- TC006_SelectGiftCard_From_GiftCardPage -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-06-18T22:13:11 IST" finished-at="2020-06-18T22:13:11 IST">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-06-20T12:45:34 IST" finished-at="2020-06-20T12:45:34 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="getResult" is-config="true" duration-ms="56" started-at="2020-06-18T22:13:11 IST" finished-at="2020-06-18T22:13:11 IST">
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="getResult" is-config="true" duration-ms="57" started-at="2020-06-20T12:45:42 IST" finished-at="2020-06-20T12:45:42 IST">
           <params>
             <param index="0">
               <value>
@@ -427,130 +535,85 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="FAIL" signature="TC007_SelectShippingCart_From_DemoWebShop()[pri:7, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="TC007_SelectShippingCart_From_DemoWebShop" duration-ms="41142" started-at="2020-06-18T22:13:11 IST" finished-at="2020-06-18T22:13:52 IST">
-          <exception class="org.openqa.selenium.TimeoutException">
-            <message>
-              <![CDATA[Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='termsofservice']' (tried for 20 second(s) with 500 milliseconds interval)]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='termsofservice']' (tried for 20 second(s) with 500 milliseconds interval)
-at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
-at com.demoworkshop.qa.TestBase.waitForElement(TestBase.java:244)
-at com.demoworkshop.qa.pages.DemoWorkShop_ShoppingCart.Clicking_Shopping_Cart(DemoWorkShop_ShoppingCart.java:68)
-at com.demoworkshop.qa.Test.DemoWorkShop_End_To_End.TC007_SelectShippingCart_From_DemoWebShop(DemoWorkShop_End_To_End.java:122)
-at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.lang.reflect.Method.invoke(Method.java:498)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
-at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
-at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
-at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
-at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:821)
-at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.util.ArrayList.forEach(ArrayList.java:1257)
-at org.testng.TestRunner.privateRun(TestRunner.java:767)
-at org.testng.TestRunner.run(TestRunner.java:588)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
-at org.testng.SuiteRunner.run(SuiteRunner.java:286)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1214)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1136)
-at org.testng.TestNG.runSuites(TestNG.java:1066)
-at org.testng.TestNG.run(TestNG.java:1034)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='termsofservice']"}
-  (Session info: chrome=83.0.4103.106)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-LMLOJ2T', ip: '192.168.1.3', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\sys4\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:54382}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: ccf9717768a728205d4ef34c3842642c
-*** Element info: {Using=xpath, value=//input[@id='termsofservice']}
-at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
-at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
-at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-at sun.reflect.GeneratedMethodAccessor10.invoke(Unknown Source)
-at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.lang.reflect.Method.invoke(Method.java:498)
-at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
-at com.sun.proxy.$Proxy13.findElement(Unknown Source)
-at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:194)
-at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
-at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-at com.sun.proxy.$Proxy17.isDisplayed(Unknown Source)
-at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)
-at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
-at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)
-at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)
-at org.openqa.selenium.support.ui.ExpectedConditions$23.apply(ExpectedConditions.java:670)
-at org.openqa.selenium.support.ui.ExpectedConditions$23.apply(ExpectedConditions.java:666)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
-... 31 more
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.TimeoutException -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-06-20T12:45:42 IST" finished-at="2020-06-20T12:45:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-06-20T12:45:42 IST" finished-at="2020-06-20T12:45:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC007_SelectShippingCart_From_DemoWebShop()[pri:7, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="TC007_SelectShippingCart_From_DemoWebShop" duration-ms="10898" started-at="2020-06-20T12:45:42 IST" finished-at="2020-06-20T12:45:53 IST">
           <reporter-output>
             <line>
               <![CDATA[Clicking Shipping cart]]>
             </line>
+            <line>
+              <![CDATA[Clicking agree checkbox]]>
+            </line>
+            <line>
+              <![CDATA[Clicking Check Out]]>
+            </line>
+            <line>
+              <![CDATA[Select Billing Address]]>
+            </line>
+            <line>
+              <![CDATA[Clicking Billing Continue]]>
+            </line>
+            <line>
+              <![CDATA[Select Shipping Adress]]>
+            </line>
+            <line>
+              <![CDATA[Clicking Shipping Continue]]>
+            </line>
+            <line>
+              <![CDATA[Select Shipping Method]]>
+            </line>
+            <line>
+              <![CDATA[Clicking Continue Shipping]]>
+            </line>
+            <line>
+              <![CDATA[Select Payment Method]]>
+            </line>
+            <line>
+              <![CDATA[clicking payment method continue]]>
+            </line>
+            <line>
+              <![CDATA[Clicking Payment information continue]]>
+            </line>
+            <line>
+              <![CDATA[Clicking Confrim Order]]>
+            </line>
           </reporter-output>
         </test-method> <!-- TC007_SelectShippingCart_From_DemoWebShop -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-06-18T22:13:11 IST" finished-at="2020-06-18T22:13:11 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-06-18T22:13:53 IST" finished-at="2020-06-18T22:13:53 IST">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-06-20T12:45:53 IST" finished-at="2020-06-20T12:45:53 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="getResult" is-config="true" duration-ms="372" started-at="2020-06-18T22:13:53 IST" finished-at="2020-06-18T22:13:53 IST">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="getResult" is-config="true" duration-ms="48" started-at="2020-06-20T12:45:53 IST" finished-at="2020-06-20T12:45:53 IST">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=TC007_SelectShippingCart_From_DemoWebShop status=FAILURE method=DemoWorkShop_End_To_End.TC007_SelectShippingCart_From_DemoWebShop()[pri:7, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a] output=Clicking Shipping cart]]]>
+                <![CDATA[[TestResult name=TC007_SelectShippingCart_From_DemoWebShop status=SUCCESS method=DemoWorkShop_End_To_End.TC007_SelectShippingCart_From_DemoWebShop()[pri:7, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a] output=Clicking Shipping cart]]]>
               </value>
             </param>
           </params>
           <reporter-output>
-            <line>
-              <![CDATA[<a href='C:\Users\sys4\Downloads\Selenium_Demoweb_Shop\DemoWebShopTC007_SelectShippingCart_From_DemoWebShop18_06_2020_10_13_53.jpeg'> <img src='C:\Users\sys4\Downloads\Selenium_Demoweb_Shop\DemoWebShopTC007_SelectShippingCart_From_DemoWebShop18_06_2020_10_13_53.jpeg' height='100' width='100'/></a>]]>
-            </line>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-06-18T22:13:53 IST" finished-at="2020-06-18T22:13:53 IST">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-06-20T12:45:53 IST" finished-at="2020-06-20T12:45:53 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TC008_Select_Orders_From_DemoWebShop()[pri:8, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="TC008_Select_Orders_From_DemoWebShop" duration-ms="139" started-at="2020-06-18T22:13:53 IST" finished-at="2020-06-18T22:13:53 IST">
+        <test-method status="PASS" signature="TC008_Select_Orders_From_DemoWebShop()[pri:8, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="TC008_Select_Orders_From_DemoWebShop" duration-ms="143" started-at="2020-06-20T12:45:53 IST" finished-at="2020-06-20T12:45:53 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC008_Select_Orders_From_DemoWebShop -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-06-18T22:13:53 IST" finished-at="2020-06-18T22:13:53 IST">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-06-20T12:45:53 IST" finished-at="2020-06-20T12:45:53 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="getResult" is-config="true" duration-ms="53" started-at="2020-06-18T22:13:53 IST" finished-at="2020-06-18T22:13:53 IST">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="getResult" is-config="true" duration-ms="71" started-at="2020-06-20T12:45:53 IST" finished-at="2020-06-20T12:45:53 IST">
           <params>
             <param index="0">
               <value>
@@ -561,15 +624,15 @@ at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="AfterClass()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="AfterClass" is-config="true" duration-ms="57" started-at="2020-06-18T22:13:53 IST" finished-at="2020-06-18T22:13:53 IST">
+        <test-method status="PASS" signature="AfterClass()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="AfterClass" is-config="true" duration-ms="54" started-at="2020-06-20T12:45:53 IST" finished-at="2020-06-20T12:45:53 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterClass -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="afterTest" is-config="true" duration-ms="0" started-at="2020-06-18T22:13:53 IST" finished-at="2020-06-18T22:13:53 IST">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="afterTest" is-config="true" duration-ms="0" started-at="2020-06-20T12:45:53 IST" finished-at="2020-06-20T12:45:53 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
-        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="afterSuite" is-config="true" duration-ms="896" started-at="2020-06-18T22:13:53 IST" finished-at="2020-06-18T22:13:54 IST">
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a]" name="afterSuite" is-config="true" duration-ms="762" started-at="2020-06-20T12:45:54 IST" finished-at="2020-06-20T12:45:54 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSuite -->

@@ -57,9 +57,9 @@ function toggleAllBoxes() {
 <tr>
 <td>Tests passed/Failed/Skipped:</td><td>7/1/0</td>
 </tr><tr>
-<td>Started on:</td><td>Thu Jun 18 22:12:43 IST 2020</td>
+<td>Started on:</td><td>Sat Jun 20 12:44:54 IST 2020</td>
 </tr>
-<tr><td>Total time:</td><td>70 seconds (70434 ms)</td>
+<tr><td>Total time:</td><td>59 seconds (59253 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -75,20 +75,49 @@ function toggleAllBoxes() {
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='com.demoworkshop.qa.Test.DemoWorkShop_End_To_End.TC007_SelectShippingCart_From_DemoWebShop()'><b>TC007_SelectShippingCart_From_DemoWebShop</b><br>Test class: com.demoworkshop.qa.Test.DemoWorkShop_End_To_End<br/>
-<a href="#Output-1840940155" onClick='toggleBox("Output-1840940155", this, "Show output", "Hide output");'>Show output</a>
+<td title='com.demoworkshop.qa.Test.DemoWorkShop_End_To_End.TC002_Verify_Demowebshop_Homepage_IsDisplayed()'><b>TC002_Verify_Demowebshop_Homepage_IsDisplayed</b><br>Test class: com.demoworkshop.qa.Test.DemoWorkShop_End_To_End<br/>
+<a href="#Output-2123222442" onClick='toggleBox("Output-2123222442", this, "Show output", "Hide output");'>Show output</a>
 
-<a href="#Output-1840940155" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-1840940155">
-Clicking Shipping cart<br/>
+<a href="#Output-2123222442" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2123222442">
+Click on login page<br/>
 </div>
 </td>
-<td><div><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator &apos;By.xpath: //input[@id=&apos;termsofservice&apos;]&apos; (tried for 20 second(s) with 500 milliseconds interval)
-	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
-	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
-	at com.demoworkshop.qa.TestBase.waitForElement(TestBase.java:244)
-	at com.demoworkshop.qa.pages.DemoWorkShop_ShoppingCart.Clicking_Shopping_Cart(DemoWorkShop_ShoppingCart.java:68)
-	at com.demoworkshop.qa.Test.DemoWorkShop_End_To_End.TC007_SelectShippingCart_From_DemoWebShop(DemoWorkShop_End_To_End.java:122)
+<td><div><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;link text&quot;,&quot;selector&quot;:&quot;Log in&quot;}
+  (Session info: chrome=83.0.4103.106)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;DESKTOP-LMLOJ2T&apos;, ip: &apos;192.168.1.3&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_251&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\sys4\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:55653}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 019f8660c0a3be656a4f8102aac177fd
+*** Element info: {Using=link text, value=Log in}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByLinkText(RemoteWebDriver.java:380)
+	at org.openqa.selenium.By$ByLinkText.findElement(By.java:220)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+	at com.sun.proxy.$Proxy13.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:194)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy17.click(Unknown Source)
+	at com.demoworkshop.qa.pages.DemoWorkShop_SignIn.DemoWorkShopSignIn(DemoWorkShop_SignIn.java:35)
+	at com.demoworkshop.qa.Test.DemoWorkShop_End_To_End.TC002_Verify_Demowebshop_Homepage_IsDisplayed(DemoWorkShop_End_To_End.java:81)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -117,15 +146,16 @@ Clicking Shipping cart<br/>
 	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//input[@id=&apos;termsofservice&apos;]&quot;}
+</pre></div><a href='#' onClick='toggleBox("stack-trace2123222442", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace2123222442'><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;link text&quot;,&quot;selector&quot;:&quot;Log in&quot;}
   (Session info: chrome=83.0.4103.106)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
 System info: host: &apos;DESKTOP-LMLOJ2T&apos;, ip: &apos;192.168.1.3&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_251&apos;
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\sys4\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:54382}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: ccf9717768a728205d4ef34c3842642c
-*** Element info: {Using=xpath, value=//input[@id=&apos;termsofservice&apos;]}
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\sys4\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:55653}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 019f8660c0a3be656a4f8102aac177fd
+*** Element info: {Using=link text, value=Log in}
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -137,10 +167,11 @@ Session ID: ccf9717768a728205d4ef34c3842642c
 	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
-	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByLinkText(RemoteWebDriver.java:380)
+	at org.openqa.selenium.By$ByLinkText.findElement(By.java:220)
 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-	at sun.reflect.GeneratedMethodAccessor10.invoke(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
 	at java.lang.reflect.Method.invoke(Method.java:498)
 	at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
@@ -148,22 +179,9 @@ Session ID: ccf9717768a728205d4ef34c3842642c
 	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:194)
 	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
 	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-	at com.sun.proxy.$Proxy17.isDisplayed(Unknown Source)
-	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)
-	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
-	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)
-	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)
-	at org.openqa.selenium.support.ui.ExpectedConditions$23.apply(ExpectedConditions.java:670)
-	at org.openqa.selenium.support.ui.ExpectedConditions$23.apply(ExpectedConditions.java:666)
-	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
-	... 31 more
-</pre></div><a href='#' onClick='toggleBox("stack-trace1840940155", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace1840940155'><pre>org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator &apos;By.xpath: //input[@id=&apos;termsofservice&apos;]&apos; (tried for 20 second(s) with 500 milliseconds interval)
-	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
-	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
-	at com.demoworkshop.qa.TestBase.waitForElement(TestBase.java:244)
-	at com.demoworkshop.qa.pages.DemoWorkShop_ShoppingCart.Clicking_Shopping_Cart(DemoWorkShop_ShoppingCart.java:68)
-	at com.demoworkshop.qa.Test.DemoWorkShop_End_To_End.TC007_SelectShippingCart_From_DemoWebShop(DemoWorkShop_End_To_End.java:122)
+	at com.sun.proxy.$Proxy17.click(Unknown Source)
+	at com.demoworkshop.qa.pages.DemoWorkShop_SignIn.DemoWorkShopSignIn(DemoWorkShop_SignIn.java:35)
+	at com.demoworkshop.qa.Test.DemoWorkShop_End_To_End.TC002_Verify_Demowebshop_Homepage_IsDisplayed(DemoWorkShop_End_To_End.java:81)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -192,48 +210,8 @@ Session ID: ccf9717768a728205d4ef34c3842642c
 	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//input[@id=&apos;termsofservice&apos;]&quot;}
-  (Session info: chrome=83.0.4103.106)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
-System info: host: &apos;DESKTOP-LMLOJ2T&apos;, ip: &apos;192.168.1.3&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_251&apos;
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\sys4\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:54382}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: ccf9717768a728205d4ef34c3842642c
-*** Element info: {Using=xpath, value=//input[@id=&apos;termsofservice&apos;]}
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
-	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-	at sun.reflect.GeneratedMethodAccessor10.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.lang.reflect.Method.invoke(Method.java:498)
-	at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
-	at com.sun.proxy.$Proxy13.findElement(Unknown Source)
-	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:194)
-	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-	at com.sun.proxy.$Proxy17.isDisplayed(Unknown Source)
-	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)
-	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
-	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)
-	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)
-	at org.openqa.selenium.support.ui.ExpectedConditions$23.apply(ExpectedConditions.java:670)
-	at org.openqa.selenium.support.ui.ExpectedConditions$23.apply(ExpectedConditions.java:666)
-	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
-	... 31 more
 </pre></div></td>
-<td>41</td>
+<td>20</td>
 <td>com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a</td></tr>
 </table><p>
 <table width='100%' border='1' class='invocation-passed'>
@@ -258,24 +236,11 @@ Entered password<br/>
 <td>1</td>
 <td>com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a</td></tr>
 <tr>
-<td title='com.demoworkshop.qa.Test.DemoWorkShop_End_To_End.TC002_Verify_Demowebshop_Homepage_IsDisplayed()'><b>TC002_Verify_Demowebshop_Homepage_IsDisplayed</b><br>Test class: com.demoworkshop.qa.Test.DemoWorkShop_End_To_End<br/>
-<a href="#Output-2123222442" onClick='toggleBox("Output-2123222442", this, "Show output", "Hide output");'>Show output</a>
-
-<a href="#Output-2123222442" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-2123222442">
-Verifying the home page is displayed<br/>
-Home page is displayed with expected :Tricentis Demo Web Shop is matched with Actual value : Tricentis Demo Web Shop<br/>
-</div>
-</td>
-<td></td>
-<td>0</td>
-<td>com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a</td></tr>
-<tr>
 <td title='com.demoworkshop.qa.Test.DemoWorkShop_End_To_End.TC003_SelectBooks_From_BooksPage()'><b>TC003_SelectBooks_From_BooksPage</b><br>Test class: com.demoworkshop.qa.Test.DemoWorkShop_End_To_End<br/>
-<a href="#Output-777341499" onClick='toggleBox("Output-777341499", this, "Show output", "Hide output");'>Show output</a>
+<a href="#Output-1389509050" onClick='toggleBox("Output-1389509050", this, "Show output", "Hide output");'>Show output</a>
 
-<a href="#Output-777341499" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-777341499">
+<a href="#Output-1389509050" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1389509050">
 clicking Books on Demo Web shop<br/>
 Verifying the Books page is displayed<br/>
 Books page is displayed with expected :Books is matched with Actual value : Books<br/>
@@ -287,14 +252,14 @@ Click on Add to Cart Button<br/>
 </div>
 </td>
 <td></td>
-<td>4</td>
+<td>3</td>
 <td>com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a</td></tr>
 <tr>
 <td title='com.demoworkshop.qa.Test.DemoWorkShop_End_To_End.TC004_SelectDesktops_From_ComputersPage()'><b>TC004_SelectDesktops_From_ComputersPage</b><br>Test class: com.demoworkshop.qa.Test.DemoWorkShop_End_To_End<br/>
-<a href="#Output-2076249476" onClick='toggleBox("Output-2076249476", this, "Show output", "Hide output");'>Show output</a>
+<a href="#Output-2117099736" onClick='toggleBox("Output-2117099736", this, "Show output", "Hide output");'>Show output</a>
 
-<a href="#Output-2076249476" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-2076249476">
+<a href="#Output-2117099736" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2117099736">
 Verifying the computers page is displayed<br/>
 computers page is displayed with expected :Computers is matched with Actual value : Computers<br/>
 Clicking Desktop from Demo WebShop<br/>
@@ -313,10 +278,10 @@ Add to cart second<br/>
 <td>com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a</td></tr>
 <tr>
 <td title='com.demoworkshop.qa.Test.DemoWorkShop_End_To_End.TC005_SelectJewelry_From_JewelryPage()'><b>TC005_SelectJewelry_From_JewelryPage</b><br>Test class: com.demoworkshop.qa.Test.DemoWorkShop_End_To_End<br/>
-<a href="#Output-1521204009" onClick='toggleBox("Output-1521204009", this, "Show output", "Hide output");'>Show output</a>
+<a href="#Output-67620673" onClick='toggleBox("Output-67620673", this, "Show output", "Hide output");'>Show output</a>
 
-<a href="#Output-1521204009" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-1521204009">
+<a href="#Output-67620673" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-67620673">
 Selecting Jewelry from demo webshop<br/>
 Verifying the Jewelry page is displayed<br/>
 Jewelry page is displayed with expected :Jewelry is matched with Actual value : Jewelry<br/>
@@ -332,10 +297,10 @@ Add to the Cart second<br/>
 <td>com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a</td></tr>
 <tr>
 <td title='com.demoworkshop.qa.Test.DemoWorkShop_End_To_End.TC006_SelectGiftCard_From_GiftCardPage()'><b>TC006_SelectGiftCard_From_GiftCardPage</b><br>Test class: com.demoworkshop.qa.Test.DemoWorkShop_End_To_End<br/>
-<a href="#Output-29774113" onClick='toggleBox("Output-29774113", this, "Show output", "Hide output");'>Show output</a>
+<a href="#Output-28145535" onClick='toggleBox("Output-28145535", this, "Show output", "Hide output");'>Show output</a>
 
-<a href="#Output-29774113" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-29774113">
+<a href="#Output-28145535" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-28145535">
 Cliking gift Cards<br/>
 Verifying the Gift card page is displayed<br/>
 Gift card page is displayed with expected :Gift Cards is matched with Actual value : Gift Cards<br/>
@@ -351,7 +316,31 @@ Add to the Cart second<br/>
 </div>
 </td>
 <td></td>
-<td>9</td>
+<td>8</td>
+<td>com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a</td></tr>
+<tr>
+<td title='com.demoworkshop.qa.Test.DemoWorkShop_End_To_End.TC007_SelectShippingCart_From_DemoWebShop()'><b>TC007_SelectShippingCart_From_DemoWebShop</b><br>Test class: com.demoworkshop.qa.Test.DemoWorkShop_End_To_End<br/>
+<a href="#Output-1533972343" onClick='toggleBox("Output-1533972343", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1533972343" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1533972343">
+Clicking Shipping cart<br/>
+Clicking agree checkbox<br/>
+Clicking Check Out<br/>
+Select Billing Address<br/>
+Clicking Billing Continue<br/>
+Select Shipping Adress<br/>
+Clicking Shipping Continue<br/>
+Select Shipping Method<br/>
+Clicking Continue Shipping<br/>
+Select Payment Method<br/>
+clicking payment method continue<br/>
+Clicking Payment information continue<br/>
+Clicking Confrim Order<br/>
+</div>
+</td>
+<td></td>
+<td>10</td>
 <td>com.demoworkshop.qa.Test.DemoWorkShop_End_To_End@1e9e725a</td></tr>
 <tr>
 <td title='com.demoworkshop.qa.Test.DemoWorkShop_End_To_End.TC008_Select_Orders_From_DemoWebShop()'><b>TC008_Select_Orders_From_DemoWebShop</b><br>Test class: com.demoworkshop.qa.Test.DemoWorkShop_End_To_End</td>

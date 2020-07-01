@@ -83,7 +83,7 @@ public static final Logger log = Logger.getLogger(TestBase.class.getName());
 	public void selectBrowsers(String browser) {
 		
 		System.out.println("------------------------OS Name--------------------------------");
-		System.out.println(System.getProperty("os.name"));
+		System.out.println(System.getProperty("o	s.name"));
 		String osName = System.getProperty("os.name");
 		
 		if(osName.contains("Window")) {
@@ -244,7 +244,4 @@ public static final Logger log = Logger.getLogger(TestBase.class.getName());
 		wait.until(ExpectedConditions.elementToBeClickable(webelement));
 		return webelement;
 	}
-	
-  
-	
 }
