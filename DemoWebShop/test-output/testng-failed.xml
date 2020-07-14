@@ -9,12 +9,9 @@
           <include name="afterMethod"/>
           <include name="beforeSuite"/>
           <include name="afterTest"/>
-          <include name="beforeClass"/>
-          <include name="AfterClass"/>
           <include name="beforeMethod"/>
           <include name="TC002_Verify_Demowebshop_Homepage_IsDisplayed"/>
           <include name="afterSuite"/>
-          <include name="getResult"/>
         </methods>
       </class> <!-- com.demoworkshop.qa.Test.DemoWorkShop_End_To_End -->
     </classes>
